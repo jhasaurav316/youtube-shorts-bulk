@@ -1,5 +1,5 @@
 ======================================================================
-LYRICS: SPORT NAMES (20 Videos, 30 items each)
+LYRICS: SPORT NAMES (30 Videos, 30 items each)
 For Indian English TTS (en-IN-NeerjaNeural)
 ======================================================================
 
@@ -1401,4 +1401,704 @@ G for Greco Roman
 B for BMX Racing
 M for Mountain Bike
 S for Sprint Cycling
+
+
+----------------------------------------------------------------------
+#21. Adventure Sports - Part 1 (sports-adventure-sports-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-adventure-sports-1-audio/
+
+Letter 0: R for Rock Climbing
+Letter 1: P for Paragliding
+Letter 2: Z for Zip Lining
+Letter 3: B for Bungee Jumping
+Letter 4: S for Skydiving
+Letter 5: W for White Water Rafting
+Letter 6: C for Canyoning
+Letter 7: H for Hiking
+Letter 8: T for Trail Running
+Letter 9: M for Mountain Biking
+Letter 10: K for Kayaking
+Letter 11: I for Ice Climbing
+Letter 12: S for Surfing
+Letter 13: D for Diving
+Letter 14: J for Jet Skiing
+Letter 15: W for Windsurfing
+Letter 16: F for Free Climbing
+Letter 17: P for Parkour
+Letter 18: R for Rappelling
+Letter 19: A for Abseiling
+Letter 20: H for Hang Gliding
+Letter 21: C for Caving
+Letter 22: U for Ultra Running
+Letter 23: E for Extreme Skiing
+Letter 24: V for Via Ferrata
+Letter 25: S for Skateboarding
+Letter 26: B for Base Jumping
+Letter 27: A for Aqua Sports
+Letter 28: O for Orienteering
+Letter 29: E for Expeditions
+
+PLAIN TEXT:
+R for Rock Climbing
+P for Paragliding
+Z for Zip Lining
+B for Bungee Jumping
+S for Skydiving
+W for White Water Rafting
+C for Canyoning
+H for Hiking
+T for Trail Running
+M for Mountain Biking
+K for Kayaking
+I for Ice Climbing
+S for Surfing
+D for Diving
+J for Jet Skiing
+W for Windsurfing
+F for Free Climbing
+P for Parkour
+R for Rappelling
+A for Abseiling
+H for Hang Gliding
+C for Caving
+U for Ultra Running
+E for Extreme Skiing
+V for Via Ferrata
+S for Skateboarding
+B for Base Jumping
+A for Aqua Sports
+O for Orienteering
+E for Expeditions
+
+
+----------------------------------------------------------------------
+#22. Adventure Sports - Part 2 (sports-adventure-sports-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-adventure-sports-2-audio/
+
+Letter 0: M for Mountaineering
+Letter 1: T for Trekking
+Letter 2: R for Rafting
+Letter 3: S for Swimming
+Letter 4: D for Downhill Biking
+Letter 5: C for Cross Country
+Letter 6: B for BMX Biking
+Letter 7: F for Freeride Skiing
+Letter 8: S for Skate Boarding
+Letter 9: H for Heli Skiing
+Letter 10: G for Golfing
+Letter 11: A for Alpinism
+Letter 12: W for Wakeboarding
+Letter 13: S for Stand Up Paddling
+Letter 14: T for Table Tennis
+Letter 15: V for Volleyball
+Letter 16: B for Beach Volleyball
+Letter 17: L for Lacrosse
+Letter 18: F for Field Hockey
+Letter 19: C for Cricket
+Letter 20: B for Baseball
+Letter 21: S for Softball
+Letter 22: R for Rugby
+Letter 23: A for American Football
+Letter 24: I for Ice Hockey
+Letter 25: L for Luge
+Letter 26: B for Bobsleigh
+Letter 27: S for Skeleton
+Letter 28: C for Curling
+Letter 29: S for Speed Skating
+
+PLAIN TEXT:
+M for Mountaineering
+T for Trekking
+R for Rafting
+S for Swimming
+D for Downhill Biking
+C for Cross Country
+B for BMX Biking
+F for Freeride Skiing
+S for Skate Boarding
+H for Heli Skiing
+G for Golfing
+A for Alpinism
+W for Wakeboarding
+S for Stand Up Paddling
+T for Table Tennis
+V for Volleyball
+B for Beach Volleyball
+L for Lacrosse
+F for Field Hockey
+C for Cricket
+B for Baseball
+S for Softball
+R for Rugby
+A for American Football
+I for Ice Hockey
+L for Luge
+B for Bobsleigh
+S for Skeleton
+C for Curling
+S for Speed Skating
+
+
+----------------------------------------------------------------------
+#23. Adventure Sports - Part 3 (sports-adventure-sports-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-adventure-sports-3-audio/
+
+Letter 0: I for Ice Skating
+Letter 1: F for Figure Skating
+Letter 2: S for Short Track
+Letter 3: A for Alpine Skiing
+Letter 4: N for Nordic Skiing
+Letter 5: F for Freestyle Skiing
+Letter 6: S for Snowboarding
+Letter 7: H for Half Pipe
+Letter 8: B for Big Air
+Letter 9: C for Cross Country Skiing
+Letter 10: B for Biathlon
+Letter 11: S for Ski Jump
+Letter 12: N for Nordic Combined
+Letter 13: T for Telemark Skiing
+Letter 14: M for Mogul Skiing
+Letter 15: A for Aerials
+Letter 16: S for Slope Style
+Letter 17: S for Slopestyle
+Letter 18: P for Pipe
+Letter 19: Q for Quarterpipe
+Letter 20: J for Jibbing
+Letter 21: F for Freeriding
+Letter 22: B for Backcountry
+Letter 23: O for Off Piste
+Letter 24: D for Double Black Diamond
+Letter 25: B for Black Diamond
+Letter 26: B for Blue Run
+Letter 27: R for Red Run
+Letter 28: G for Green Run
+Letter 29: S for Ski School
+
+PLAIN TEXT:
+I for Ice Skating
+F for Figure Skating
+S for Short Track
+A for Alpine Skiing
+N for Nordic Skiing
+F for Freestyle Skiing
+S for Snowboarding
+H for Half Pipe
+B for Big Air
+C for Cross Country Skiing
+B for Biathlon
+S for Ski Jump
+N for Nordic Combined
+T for Telemark Skiing
+M for Mogul Skiing
+A for Aerials
+S for Slope Style
+S for Slopestyle
+P for Pipe
+Q for Quarterpipe
+J for Jibbing
+F for Freeriding
+B for Backcountry
+O for Off Piste
+D for Double Black Diamond
+B for Black Diamond
+B for Blue Run
+R for Red Run
+G for Green Run
+S for Ski School
+
+
+----------------------------------------------------------------------
+#24. Team Sports - Part 1 (sports-team-sports-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-team-sports-1-audio/
+
+Letter 0: C for Cricket
+Letter 1: F for Football
+Letter 2: B for Basketball
+Letter 3: V for Volleyball
+Letter 4: H for Hockey
+Letter 5: R for Rugby
+Letter 6: A for American Football
+Letter 7: B for Baseball
+Letter 8: S for Softball
+Letter 9: I for Ice Hockey
+Letter 10: L for Lacrosse
+Letter 11: F for Field Hockey
+Letter 12: K for Kabaddi
+Letter 13: B for Basketball
+Letter 14: T for Table Tennis
+Letter 15: B for Badminton
+Letter 16: T for Tennis
+Letter 17: S for Squash
+Letter 18: P for Pickleball
+Letter 19: H for Handball
+Letter 20: W for Water Polo
+Letter 21: G for Goalball
+Letter 22: S for Sepak Takraw
+Letter 23: K for Kho Kho
+Letter 24: G for Gilli Danda
+Letter 25: L for Lagori
+Letter 26: D for Duck Hockey
+Letter 27: B for Bash
+Letter 28: M for Mallakhamb
+Letter 29: W for Wrestling
+
+PLAIN TEXT:
+C for Cricket
+F for Football
+B for Basketball
+V for Volleyball
+H for Hockey
+R for Rugby
+A for American Football
+B for Baseball
+S for Softball
+I for Ice Hockey
+L for Lacrosse
+F for Field Hockey
+K for Kabaddi
+B for Basketball
+T for Table Tennis
+B for Badminton
+T for Tennis
+S for Squash
+P for Pickleball
+H for Handball
+W for Water Polo
+G for Goalball
+S for Sepak Takraw
+K for Kho Kho
+G for Gilli Danda
+L for Lagori
+D for Duck Hockey
+B for Bash
+M for Mallakhamb
+W for Wrestling
+
+
+----------------------------------------------------------------------
+#25. Team Sports - Part 2 (sports-team-sports-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-team-sports-2-audio/
+
+Letter 0: B for Boxing
+Letter 1: M for Muay Thai
+Letter 2: K for Karate
+Letter 3: T for Taekwondo
+Letter 4: J for Judo
+Letter 5: J for Jiu Jitsu
+Letter 6: W for Weightlifting
+Letter 7: P for Powerlifting
+Letter 8: B for Bodybuilding
+Letter 9: G for Gymnastics
+Letter 10: A for Artistic Gymnastics
+Letter 11: R for Rhythmic Gymnastics
+Letter 12: T for Trampolining
+Letter 13: A for Aerobics
+Letter 14: D for Dance
+Letter 15: S for Swimming
+Letter 16: D for Diving
+Letter 17: S for Synchronized Swimming
+Letter 18: A for Archery
+Letter 19: S for Shooting
+Letter 20: M for Modern Pentathlon
+Letter 21: E for Equestrian
+Letter 22: B for Biathlon
+Letter 23: T for Triathlon
+Letter 24: D for Decathlon
+Letter 25: P for Pentathlon
+Letter 26: H for Heptathlon
+Letter 27: M for Marathon
+Letter 28: H for Half Marathon
+Letter 29: R for Relay Racing
+
+PLAIN TEXT:
+B for Boxing
+M for Muay Thai
+K for Karate
+T for Taekwondo
+J for Judo
+J for Jiu Jitsu
+W for Weightlifting
+P for Powerlifting
+B for Bodybuilding
+G for Gymnastics
+A for Artistic Gymnastics
+R for Rhythmic Gymnastics
+T for Trampolining
+A for Aerobics
+D for Dance
+S for Swimming
+D for Diving
+S for Synchronized Swimming
+A for Archery
+S for Shooting
+M for Modern Pentathlon
+E for Equestrian
+B for Biathlon
+T for Triathlon
+D for Decathlon
+P for Pentathlon
+H for Heptathlon
+M for Marathon
+H for Half Marathon
+R for Relay Racing
+
+
+----------------------------------------------------------------------
+#26. Team Sports - Part 3 (sports-team-sports-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-team-sports-3-audio/
+
+Letter 0: S for Sprint
+Letter 1: H for Hurdles
+Letter 2: S for Steeplechase
+Letter 3: J for Javelin
+Letter 4: D for Discus
+Letter 5: S for Shot Put
+Letter 6: H for Hammer Throw
+Letter 7: L for Long Jump
+Letter 8: T for Triple Jump
+Letter 9: H for High Jump
+Letter 10: P for Pole Vault
+Letter 11: W for Walking Race
+Letter 12: C for Cross Country
+Letter 13: O for Orienteering
+Letter 14: F for Fell Running
+Letter 15: T for Trail Running
+Letter 16: U for Ultramarathon
+Letter 17: R for Road Running
+Letter 18: T for Track and Field
+Letter 19: C for Cycling
+Letter 20: B for BMX
+Letter 21: M for Mountain Biking
+Letter 22: R for Road Cycling
+Letter 23: T for Track Cycling
+Letter 24: M for Motocross
+Letter 25: M for Motorcycle Racing
+Letter 26: A for Auto Racing
+Letter 27: F for Formula One
+Letter 28: R for Rally Racing
+Letter 29: D for Drag Racing
+
+PLAIN TEXT:
+S for Sprint
+H for Hurdles
+S for Steeplechase
+J for Javelin
+D for Discus
+S for Shot Put
+H for Hammer Throw
+L for Long Jump
+T for Triple Jump
+H for High Jump
+P for Pole Vault
+W for Walking Race
+C for Cross Country
+O for Orienteering
+F for Fell Running
+T for Trail Running
+U for Ultramarathon
+R for Road Running
+T for Track and Field
+C for Cycling
+B for BMX
+M for Mountain Biking
+R for Road Cycling
+T for Track Cycling
+M for Motocross
+M for Motorcycle Racing
+A for Auto Racing
+F for Formula One
+R for Rally Racing
+D for Drag Racing
+
+
+----------------------------------------------------------------------
+#27. Fitness Sports - Part 1 (sports-fitness-sports-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-fitness-sports-1-audio/
+
+Letter 0: Y for Yoga
+Letter 1: P for Pilates
+Letter 2: Z for Zumba
+Letter 3: A for Aerobics
+Letter 4: J for Jazzercise
+Letter 5: S for Spinning
+Letter 6: C for CrossFit
+Letter 7: B for Boxing
+Letter 8: K for Kickboxing
+Letter 9: M for Mixed Martial Arts
+Letter 10: T for Tai Chi
+Letter 11: Q for Qigong
+Letter 12: P for Pilates Reformer
+Letter 13: B for Barre
+Letter 14: D for Dance Fitness
+Letter 15: B for Bootcamp
+Letter 16: H for HIIT
+Letter 17: C for Cardio
+Letter 18: S for Strength Training
+Letter 19: C for Core Training
+Letter 20: F for Functional Fitness
+Letter 21: S for Stretching
+Letter 22: F for Flexibility Training
+Letter 23: B for Balance Training
+Letter 24: A for Agility Training
+Letter 25: E for Endurance Training
+Letter 26: P for Power Training
+Letter 27: S for Speed Training
+Letter 28: R for Running
+Letter 29: W for Walking
+
+PLAIN TEXT:
+Y for Yoga
+P for Pilates
+Z for Zumba
+A for Aerobics
+J for Jazzercise
+S for Spinning
+C for CrossFit
+B for Boxing
+K for Kickboxing
+M for Mixed Martial Arts
+T for Tai Chi
+Q for Qigong
+P for Pilates Reformer
+B for Barre
+D for Dance Fitness
+B for Bootcamp
+H for HIIT
+C for Cardio
+S for Strength Training
+C for Core Training
+F for Functional Fitness
+S for Stretching
+F for Flexibility Training
+B for Balance Training
+A for Agility Training
+E for Endurance Training
+P for Power Training
+S for Speed Training
+R for Running
+W for Walking
+
+
+----------------------------------------------------------------------
+#28. Fitness Sports - Part 2 (sports-fitness-sports-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-fitness-sports-2-audio/
+
+Letter 0: J for Jogging
+Letter 1: S for Stair Climbing
+Letter 2: E for Elliptical
+Letter 3: T for Treadmill
+Letter 4: R for Rowing
+Letter 5: S for Swimming
+Letter 6: C for Cycling
+Letter 7: S for Stationary Biking
+Letter 8: J for Jump Rope
+Letter 9: R for Rebounding
+Letter 10: T for Trampolining
+Letter 11: S for Skipping
+Letter 12: L for Lunges
+Letter 13: S for Squats
+Letter 14: P for Push ups
+Letter 15: P for Pull ups
+Letter 16: C for Calf Raises
+Letter 17: D for Deadlifts
+Letter 18: B for Bench Press
+Letter 19: S for Sit ups
+Letter 20: C for Crunches
+Letter 21: P for Planks
+Letter 22: L for Leg Press
+Letter 23: L for Leg Curls
+Letter 24: L for Leg Extensions
+Letter 25: C for Cable Machines
+Letter 26: F for Free Weights
+Letter 27: R for Resistance Bands
+Letter 28: S for Suspension Training
+Letter 29: K for Kettlebell
+
+PLAIN TEXT:
+J for Jogging
+S for Stair Climbing
+E for Elliptical
+T for Treadmill
+R for Rowing
+S for Swimming
+C for Cycling
+S for Stationary Biking
+J for Jump Rope
+R for Rebounding
+T for Trampolining
+S for Skipping
+L for Lunges
+S for Squats
+P for Push ups
+P for Pull ups
+C for Calf Raises
+D for Deadlifts
+B for Bench Press
+S for Sit ups
+C for Crunches
+P for Planks
+L for Leg Press
+L for Leg Curls
+L for Leg Extensions
+C for Cable Machines
+F for Free Weights
+R for Resistance Bands
+S for Suspension Training
+K for Kettlebell
+
+
+----------------------------------------------------------------------
+#29. Fitness Sports - Part 3 (sports-fitness-sports-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-fitness-sports-3-audio/
+
+Letter 0: D for Dumbbell
+Letter 1: B for Barbell
+Letter 2: P for Plate Loaded
+Letter 3: S for Smith Machine
+Letter 4: M for Medicine Ball
+Letter 5: B for Battle Rope
+Letter 6: T for TRX
+Letter 7: S for Sandbag
+Letter 8: T for Tires Flips
+Letter 9: S for Sled Push
+Letter 10: B for Box Jumps
+Letter 11: M for Muscle Up
+Letter 12: C for Clean and Jerk
+Letter 13: S for Snatch
+Letter 14: T for Turkish Get Up
+Letter 15: R for Rope Climb
+Letter 16: W for Wall Ball
+Letter 17: G for Ghd Sit ups
+Letter 18: A for Ab Wheel
+Letter 19: H for Hanging Leg Raise
+Letter 20: M for Mobility Work
+Letter 21: F for Foam Rolling
+Letter 22: M for Massage
+Letter 23: S for Sauna
+Letter 24: S for Steam Room
+Letter 25: S for Stretching
+Letter 26: M for Meditation
+Letter 27: M for Mindfulness
+Letter 28: R for Recovery
+Letter 29: W for Wellness
+
+PLAIN TEXT:
+D for Dumbbell
+B for Barbell
+P for Plate Loaded
+S for Smith Machine
+M for Medicine Ball
+B for Battle Rope
+T for TRX
+S for Sandbag
+T for Tires Flips
+S for Sled Push
+B for Box Jumps
+M for Muscle Up
+C for Clean and Jerk
+S for Snatch
+T for Turkish Get Up
+R for Rope Climb
+W for Wall Ball
+G for Ghd Sit ups
+A for Ab Wheel
+H for Hanging Leg Raise
+M for Mobility Work
+F for Foam Rolling
+M for Massage
+S for Sauna
+S for Steam Room
+S for Stretching
+M for Meditation
+M for Mindfulness
+R for Recovery
+W for Wellness
+
+
+----------------------------------------------------------------------
+#30. All Sports Collection (sports-all-sports)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/sports-all-sports-audio/
+
+Letter 0: C for Cricket
+Letter 1: F for Football
+Letter 2: B for Basketball
+Letter 3: T for Tennis
+Letter 4: V for Volleyball
+Letter 5: R for Rugby
+Letter 6: H for Hockey
+Letter 7: K for Kabaddi
+Letter 8: A for Archery
+Letter 9: S for Shooting
+Letter 10: B for Badminton
+Letter 11: B for Boxing
+Letter 12: S for Swimming
+Letter 13: G for Gymnastics
+Letter 14: W for Weightlifting
+Letter 15: C for Cycling
+Letter 16: E for Equestrian
+Letter 17: J for Judo
+Letter 18: K for Karate
+Letter 19: W for Wrestling
+Letter 20: M for Martial Arts
+Letter 21: R for Running
+Letter 22: D for Diving
+Letter 23: S for Skiing
+Letter 24: S for Skateboarding
+Letter 25: S for Surfing
+Letter 26: Y for Yoga
+Letter 27: P for Pilates
+Letter 28: D for Dancing
+Letter 29: Z for Zumba
+
+PLAIN TEXT:
+C for Cricket
+F for Football
+B for Basketball
+T for Tennis
+V for Volleyball
+R for Rugby
+H for Hockey
+K for Kabaddi
+A for Archery
+S for Shooting
+B for Badminton
+B for Boxing
+S for Swimming
+G for Gymnastics
+W for Weightlifting
+C for Cycling
+E for Equestrian
+J for Judo
+K for Karate
+W for Wrestling
+M for Martial Arts
+R for Running
+D for Diving
+S for Skiing
+S for Skateboarding
+S for Surfing
+Y for Yoga
+P for Pilates
+D for Dancing
+Z for Zumba
 

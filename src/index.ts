@@ -11,10 +11,12 @@ import { InstrumentRemotionRoot } from "./InstrumentRoot";
 import { VehicleRemotionRoot } from "./VehicleRoot";
 import { CountryRemotionRoot } from "./CountryRoot";
 import { SportRemotionRoot } from "./SportRoot";
+import { FoodRemotionRoot } from "./FoodRoot";
+import { ColorshapeRemotionRoot } from "./ColorshapeRoot";
 import React from "react";
 
-// Phase 1-6: 300 videos
-// Phase 7: Countries (30) + Sports (20) = 50
+// Phase 1-7: 350 videos
+// Phase 8: Sports (10) + Food (30) + Colors (10) = 50
 const CombinedRoot: React.FC = () => {
   return React.createElement(React.Fragment, null,
     React.createElement(AnimalRemotionRoot),
@@ -28,7 +30,9 @@ const CombinedRoot: React.FC = () => {
     React.createElement(InstrumentRemotionRoot),
     React.createElement(VehicleRemotionRoot),
     React.createElement(CountryRemotionRoot),
-    React.createElement(SportRemotionRoot)
+    React.createElement(SportRemotionRoot),
+    React.createElement(FoodRemotionRoot),
+    React.createElement(ColorshapeRemotionRoot)
   );
 };
 
