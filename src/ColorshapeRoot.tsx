@@ -1997,6 +1997,3986 @@ export const ColorshapeRemotionRoot: React.FC = () => {
           outroDuration: 3,
         }}
       />
+      <Composition
+        id="ColorsNatureColors3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Nature Colors - Part 3",
+          videoId: "colors-nature-colors-3",
+          bgGradient: ["#43A047","#E8F5E9"] as [string, string],
+          accentColor: "#1B5E20",
+          letters: [
+          {
+          "letter": "G",
+          "word": "Green",
+          "emoji": "🟢",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "E",
+          "word": "Emerald",
+          "emoji": "💎",
+          "bgColor": "#00695C"
+          },
+          {
+          "letter": "O",
+          "word": "Olive",
+          "emoji": "🟩",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "M",
+          "word": "Moss",
+          "emoji": "🟢",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "J",
+          "word": "Jade",
+          "emoji": "💎",
+          "bgColor": "#004D40"
+          },
+          {
+          "letter": "F",
+          "word": "Forest",
+          "emoji": "🟩",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "S",
+          "word": "Sage",
+          "emoji": "🟢",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "T",
+          "word": "Teal",
+          "emoji": "🔵",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "M",
+          "word": "Mint",
+          "emoji": "🟢",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "C",
+          "word": "Cedar",
+          "emoji": "🟤",
+          "bgColor": "#3E2723"
+          },
+          {
+          "letter": "L",
+          "word": "Leaf",
+          "emoji": "🟩",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "S",
+          "word": "Spring",
+          "emoji": "🌈",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "A",
+          "word": "Avocado",
+          "emoji": "🟢",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "K",
+          "word": "Khaki",
+          "emoji": "🟨",
+          "bgColor": "#9FA8DA"
+          },
+          {
+          "letter": "P",
+          "word": "Pistachio",
+          "emoji": "🟢",
+          "bgColor": "#689F38"
+          },
+          {
+          "letter": "W",
+          "word": "Willow",
+          "emoji": "🟩",
+          "bgColor": "#616161"
+          },
+          {
+          "letter": "H",
+          "word": "Hunter",
+          "emoji": "🟢",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "B",
+          "word": "Basil",
+          "emoji": "🟢",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "S",
+          "word": "Shamrock",
+          "emoji": "🟢",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "N",
+          "word": "Nature",
+          "emoji": "🌈",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "R",
+          "word": "Rainforest",
+          "emoji": "🟩",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "V",
+          "word": "Verdant",
+          "emoji": "🟢",
+          "bgColor": "#2E7D32"
+          },
+          {
+          "letter": "E",
+          "word": "Earth",
+          "emoji": "🟤",
+          "bgColor": "#33691E"
+          },
+          {
+          "letter": "D",
+          "word": "Dark",
+          "emoji": "🟢",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "L",
+          "word": "Light",
+          "emoji": "🟢",
+          "bgColor": "#9CCC65"
+          },
+          {
+          "letter": "B",
+          "word": "Bright",
+          "emoji": "🟢",
+          "bgColor": "#7CB342"
+          },
+          {
+          "letter": "D",
+          "word": "Deep",
+          "emoji": "🟢",
+          "bgColor": "#033D00"
+          },
+          {
+          "letter": "S",
+          "word": "Soft",
+          "emoji": "🟢",
+          "bgColor": "#C5E1A5"
+          },
+          {
+          "letter": "R",
+          "word": "Rich",
+          "emoji": "🟢",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "V",
+          "word": "Vibrant",
+          "emoji": "🌈",
+          "bgColor": "#7CB342"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsWarmColors1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Warm Colors - Part 1",
+          videoId: "colors-warm-colors-1",
+          bgGradient: ["#FF6F00","#FFE0B2"] as [string, string],
+          accentColor: "#E65100",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🟠",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow",
+          "emoji": "🟡",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Coral",
+          "emoji": "🟠",
+          "bgColor": "#FF5252"
+          },
+          {
+          "letter": "S",
+          "word": "Salmon",
+          "emoji": "🩷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Peach",
+          "emoji": "🟠",
+          "bgColor": "#FF8A65"
+          },
+          {
+          "letter": "T",
+          "word": "Tangerine",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "A",
+          "word": "Amber",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "F",
+          "word": "Flame",
+          "emoji": "🔴",
+          "bgColor": "#FF1744"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "F",
+          "word": "Fire",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "M",
+          "word": "Marmalade",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "T",
+          "word": "Terracotta",
+          "emoji": "🟠",
+          "bgColor": "#E64A19"
+          },
+          {
+          "letter": "R",
+          "word": "Rust",
+          "emoji": "🟤",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "B",
+          "word": "Brick",
+          "emoji": "🟥",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "H",
+          "word": "Honey",
+          "emoji": "🟡",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "W",
+          "word": "Warm",
+          "emoji": "🔴",
+          "bgColor": "#FF5252"
+          },
+          {
+          "letter": "S",
+          "word": "Saffron",
+          "emoji": "🟨",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "L",
+          "word": "Lava",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "B",
+          "word": "Blaze",
+          "emoji": "🔴",
+          "bgColor": "#FF1744"
+          },
+          {
+          "letter": "G",
+          "word": "Glow",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "H",
+          "word": "Heat",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "R",
+          "word": "Radiant",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "W",
+          "word": "Wheat",
+          "emoji": "🟡",
+          "bgColor": "#FDD835"
+          },
+          {
+          "letter": "S",
+          "word": "Spice",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "T",
+          "word": "Toast",
+          "emoji": "🟤",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "V",
+          "word": "Vibrant",
+          "emoji": "🌈",
+          "bgColor": "#FF5252"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsWarmColors2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Warm Colors - Part 2",
+          videoId: "colors-warm-colors-2",
+          bgGradient: ["#FF8F00","#FFF3E0"] as [string, string],
+          accentColor: "#FF6F00",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🟠",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow",
+          "emoji": "🟡",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Coral",
+          "emoji": "🟠",
+          "bgColor": "#FF5252"
+          },
+          {
+          "letter": "S",
+          "word": "Salmon",
+          "emoji": "🩷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Peach",
+          "emoji": "🟠",
+          "bgColor": "#FF8A65"
+          },
+          {
+          "letter": "T",
+          "word": "Tangerine",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "A",
+          "word": "Amber",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "F",
+          "word": "Flame",
+          "emoji": "🔴",
+          "bgColor": "#FF1744"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "F",
+          "word": "Fire",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "M",
+          "word": "Marmalade",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "T",
+          "word": "Terracotta",
+          "emoji": "🟠",
+          "bgColor": "#E64A19"
+          },
+          {
+          "letter": "R",
+          "word": "Rust",
+          "emoji": "🟤",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "B",
+          "word": "Brick",
+          "emoji": "🟥",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "H",
+          "word": "Honey",
+          "emoji": "🟡",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "W",
+          "word": "Warm",
+          "emoji": "🔴",
+          "bgColor": "#FF5252"
+          },
+          {
+          "letter": "S",
+          "word": "Saffron",
+          "emoji": "🟨",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "L",
+          "word": "Lava",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "B",
+          "word": "Blaze",
+          "emoji": "🔴",
+          "bgColor": "#FF1744"
+          },
+          {
+          "letter": "G",
+          "word": "Glow",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "H",
+          "word": "Heat",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "R",
+          "word": "Radiant",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "W",
+          "word": "Wheat",
+          "emoji": "🟡",
+          "bgColor": "#FDD835"
+          },
+          {
+          "letter": "S",
+          "word": "Spice",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "T",
+          "word": "Toast",
+          "emoji": "🟤",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "V",
+          "word": "Vibrant",
+          "emoji": "🌈",
+          "bgColor": "#FF5252"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsWarmColors3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Warm Colors - Part 3",
+          videoId: "colors-warm-colors-3",
+          bgGradient: ["#FFA000","#FFECB3"] as [string, string],
+          accentColor: "#FF8F00",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🟠",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow",
+          "emoji": "🟡",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Coral",
+          "emoji": "🟠",
+          "bgColor": "#FF5252"
+          },
+          {
+          "letter": "S",
+          "word": "Salmon",
+          "emoji": "🩷",
+          "bgColor": "#FF7043"
+          },
+          {
+          "letter": "P",
+          "word": "Peach",
+          "emoji": "🟠",
+          "bgColor": "#FF8A65"
+          },
+          {
+          "letter": "T",
+          "word": "Tangerine",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "A",
+          "word": "Amber",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "F",
+          "word": "Flame",
+          "emoji": "🔴",
+          "bgColor": "#FF1744"
+          },
+          {
+          "letter": "S",
+          "word": "Sunset",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "F",
+          "word": "Fire",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "M",
+          "word": "Marmalade",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "T",
+          "word": "Terracotta",
+          "emoji": "🟠",
+          "bgColor": "#E64A19"
+          },
+          {
+          "letter": "R",
+          "word": "Rust",
+          "emoji": "🟤",
+          "bgColor": "#C62828"
+          },
+          {
+          "letter": "B",
+          "word": "Brick",
+          "emoji": "🟥",
+          "bgColor": "#D84315"
+          },
+          {
+          "letter": "H",
+          "word": "Honey",
+          "emoji": "🟡",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "W",
+          "word": "Warm",
+          "emoji": "🔴",
+          "bgColor": "#FF5252"
+          },
+          {
+          "letter": "S",
+          "word": "Saffron",
+          "emoji": "🟨",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "L",
+          "word": "Lava",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "B",
+          "word": "Blaze",
+          "emoji": "🔴",
+          "bgColor": "#FF1744"
+          },
+          {
+          "letter": "G",
+          "word": "Glow",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "H",
+          "word": "Heat",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "R",
+          "word": "Radiant",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "W",
+          "word": "Wheat",
+          "emoji": "🟡",
+          "bgColor": "#FDD835"
+          },
+          {
+          "letter": "S",
+          "word": "Spice",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "T",
+          "word": "Toast",
+          "emoji": "🟤",
+          "bgColor": "#A1887F"
+          },
+          {
+          "letter": "V",
+          "word": "Vibrant",
+          "emoji": "🌈",
+          "bgColor": "#FF5252"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsCoolColors1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Cool Colors - Part 1",
+          videoId: "colors-cool-colors-1",
+          bgGradient: ["#0277BD","#B3E5FC"] as [string, string],
+          accentColor: "#01579B",
+          letters: [
+          {
+          "letter": "B",
+          "word": "Blue",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "C",
+          "word": "Cyan",
+          "emoji": "🔵",
+          "bgColor": "#00ACC1"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "V",
+          "word": "Violet",
+          "emoji": "🟣",
+          "bgColor": "#4527A0"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender",
+          "emoji": "🟣",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "T",
+          "word": "Teal",
+          "emoji": "🔵",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "S",
+          "word": "Sky",
+          "emoji": "🔵",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "I",
+          "word": "Ice",
+          "emoji": "⚪",
+          "bgColor": "#B3E5FC"
+          },
+          {
+          "letter": "M",
+          "word": "Mint",
+          "emoji": "🟢",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "A",
+          "word": "Azure",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "S",
+          "word": "Slate",
+          "emoji": "🟦",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Cool",
+          "emoji": "🔵",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "F",
+          "word": "Frost",
+          "emoji": "⚪",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "D",
+          "word": "Denim",
+          "emoji": "🔵",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "M",
+          "word": "Mauve",
+          "emoji": "🟣",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "P",
+          "word": "Periwinkle",
+          "emoji": "🟣",
+          "bgColor": "#6C63FF"
+          },
+          {
+          "letter": "S",
+          "word": "Steel",
+          "emoji": "⚪",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "G",
+          "word": "Gray",
+          "emoji": "⚪",
+          "bgColor": "#757575"
+          },
+          {
+          "letter": "S",
+          "word": "Silver",
+          "emoji": "🥈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "B",
+          "word": "Bluebell",
+          "emoji": "🔵",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "N",
+          "word": "Navy",
+          "emoji": "🔵",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "T",
+          "word": "Turquoise",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "C",
+          "word": "Cornflower",
+          "emoji": "🔵",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "O",
+          "word": "Ocean",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "W",
+          "word": "Water",
+          "emoji": "🔵",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "S",
+          "word": "Sea",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "B",
+          "word": "Breeze",
+          "emoji": "🔵",
+          "bgColor": "#4FC3F7"
+          },
+          {
+          "letter": "D",
+          "word": "Deep",
+          "emoji": "🔵",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "F",
+          "word": "Frosty",
+          "emoji": "⚪",
+          "bgColor": "#81D4FA"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsCoolColors2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Cool Colors - Part 2",
+          videoId: "colors-cool-colors-2",
+          bgGradient: ["#0288D1","#81D4FA"] as [string, string],
+          accentColor: "#0277BD",
+          letters: [
+          {
+          "letter": "B",
+          "word": "Blue",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "C",
+          "word": "Cyan",
+          "emoji": "🔵",
+          "bgColor": "#00ACC1"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "V",
+          "word": "Violet",
+          "emoji": "🟣",
+          "bgColor": "#4527A0"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender",
+          "emoji": "🟣",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "T",
+          "word": "Teal",
+          "emoji": "🔵",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "S",
+          "word": "Sky",
+          "emoji": "🔵",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "I",
+          "word": "Ice",
+          "emoji": "⚪",
+          "bgColor": "#B3E5FC"
+          },
+          {
+          "letter": "M",
+          "word": "Mint",
+          "emoji": "🟢",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "A",
+          "word": "Azure",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "S",
+          "word": "Slate",
+          "emoji": "🟦",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Cool",
+          "emoji": "🔵",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "F",
+          "word": "Frost",
+          "emoji": "⚪",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "D",
+          "word": "Denim",
+          "emoji": "🔵",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "M",
+          "word": "Mauve",
+          "emoji": "🟣",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "P",
+          "word": "Periwinkle",
+          "emoji": "🟣",
+          "bgColor": "#6C63FF"
+          },
+          {
+          "letter": "S",
+          "word": "Steel",
+          "emoji": "⚪",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "G",
+          "word": "Gray",
+          "emoji": "⚪",
+          "bgColor": "#757575"
+          },
+          {
+          "letter": "S",
+          "word": "Silver",
+          "emoji": "🥈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "B",
+          "word": "Bluebell",
+          "emoji": "🔵",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "N",
+          "word": "Navy",
+          "emoji": "🔵",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "T",
+          "word": "Turquoise",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "C",
+          "word": "Cornflower",
+          "emoji": "🔵",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "O",
+          "word": "Ocean",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "W",
+          "word": "Water",
+          "emoji": "🔵",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "S",
+          "word": "Sea",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "B",
+          "word": "Breeze",
+          "emoji": "🔵",
+          "bgColor": "#4FC3F7"
+          },
+          {
+          "letter": "D",
+          "word": "Deep",
+          "emoji": "🔵",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "F",
+          "word": "Frosty",
+          "emoji": "⚪",
+          "bgColor": "#81D4FA"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsCoolColors3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Cool Colors - Part 3",
+          videoId: "colors-cool-colors-3",
+          bgGradient: ["#039BE5","#4FC3F7"] as [string, string],
+          accentColor: "#0288D1",
+          letters: [
+          {
+          "letter": "B",
+          "word": "Blue",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "C",
+          "word": "Cyan",
+          "emoji": "🔵",
+          "bgColor": "#00ACC1"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "V",
+          "word": "Violet",
+          "emoji": "🟣",
+          "bgColor": "#4527A0"
+          },
+          {
+          "letter": "L",
+          "word": "Lavender",
+          "emoji": "🟣",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "T",
+          "word": "Teal",
+          "emoji": "🔵",
+          "bgColor": "#00796B"
+          },
+          {
+          "letter": "S",
+          "word": "Sky",
+          "emoji": "🔵",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "I",
+          "word": "Ice",
+          "emoji": "⚪",
+          "bgColor": "#B3E5FC"
+          },
+          {
+          "letter": "M",
+          "word": "Mint",
+          "emoji": "🟢",
+          "bgColor": "#00897B"
+          },
+          {
+          "letter": "A",
+          "word": "Azure",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "S",
+          "word": "Slate",
+          "emoji": "🟦",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Cool",
+          "emoji": "🔵",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "F",
+          "word": "Frost",
+          "emoji": "⚪",
+          "bgColor": "#90CAF9"
+          },
+          {
+          "letter": "D",
+          "word": "Denim",
+          "emoji": "🔵",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "M",
+          "word": "Mauve",
+          "emoji": "🟣",
+          "bgColor": "#7B1FA2"
+          },
+          {
+          "letter": "P",
+          "word": "Periwinkle",
+          "emoji": "🟣",
+          "bgColor": "#6C63FF"
+          },
+          {
+          "letter": "S",
+          "word": "Steel",
+          "emoji": "⚪",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "G",
+          "word": "Gray",
+          "emoji": "⚪",
+          "bgColor": "#757575"
+          },
+          {
+          "letter": "S",
+          "word": "Silver",
+          "emoji": "🥈",
+          "bgColor": "#B0BEC5"
+          },
+          {
+          "letter": "B",
+          "word": "Bluebell",
+          "emoji": "🔵",
+          "bgColor": "#1565C0"
+          },
+          {
+          "letter": "N",
+          "word": "Navy",
+          "emoji": "🔵",
+          "bgColor": "#0D47A1"
+          },
+          {
+          "letter": "T",
+          "word": "Turquoise",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "C",
+          "word": "Cornflower",
+          "emoji": "🔵",
+          "bgColor": "#42A5F5"
+          },
+          {
+          "letter": "O",
+          "word": "Ocean",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "W",
+          "word": "Water",
+          "emoji": "🔵",
+          "bgColor": "#0288D1"
+          },
+          {
+          "letter": "S",
+          "word": "Sea",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "B",
+          "word": "Breeze",
+          "emoji": "🔵",
+          "bgColor": "#4FC3F7"
+          },
+          {
+          "letter": "D",
+          "word": "Deep",
+          "emoji": "🔵",
+          "bgColor": "#01579B"
+          },
+          {
+          "letter": "F",
+          "word": "Frosty",
+          "emoji": "⚪",
+          "bgColor": "#81D4FA"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="Colors3dShapes1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "3D Shapes - Part 1",
+          videoId: "colors-3d-shapes-1",
+          bgGradient: ["#37474F","#90A4AE"] as [string, string],
+          accentColor: "#263238",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Cube",
+          "emoji": "🟥",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "S",
+          "word": "Sphere",
+          "emoji": "⚫",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "P",
+          "word": "Pyramid",
+          "emoji": "🔺",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Cylinder",
+          "emoji": "⭕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "C",
+          "word": "Cone",
+          "emoji": "🔺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "D",
+          "word": "Diamond",
+          "emoji": "💎",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "R",
+          "word": "Rectangle",
+          "emoji": "🟦",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "T",
+          "word": "Triangle",
+          "emoji": "🔺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Octahedron",
+          "emoji": "💎",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "T",
+          "word": "Tetrahedron",
+          "emoji": "🔺",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "P",
+          "word": "Prism",
+          "emoji": "🔷",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "D",
+          "word": "Dodecahedron",
+          "emoji": "💎",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "I",
+          "word": "Icosahedron",
+          "emoji": "💎",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Cube",
+          "emoji": "🟥",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "S",
+          "word": "Square",
+          "emoji": "🟨",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Circle",
+          "emoji": "⭕",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "H",
+          "word": "Hexagon",
+          "emoji": "🔷",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "P",
+          "word": "Pentagon",
+          "emoji": "🔷",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "S",
+          "word": "Star",
+          "emoji": "⭐",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "R",
+          "word": "Rhombus",
+          "emoji": "🔷",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "T",
+          "word": "Trapezoid",
+          "emoji": "🔷",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "O",
+          "word": "Oval",
+          "emoji": "⭕",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "E",
+          "word": "Ellipse",
+          "emoji": "⭕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "A",
+          "word": "Arc",
+          "emoji": "🔷",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "L",
+          "word": "Line",
+          "emoji": "📏",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "A",
+          "word": "Angle",
+          "emoji": "🔺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Curve",
+          "emoji": "🌈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "V",
+          "word": "Vertex",
+          "emoji": "⭐",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "E",
+          "word": "Edge",
+          "emoji": "📏",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "F",
+          "word": "Face",
+          "emoji": "🟦",
+          "bgColor": "#37474F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="Colors3dShapes2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "3D Shapes - Part 2",
+          videoId: "colors-3d-shapes-2",
+          bgGradient: ["#455A64","#B0BEC5"] as [string, string],
+          accentColor: "#37474F",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Cube",
+          "emoji": "🟥",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "S",
+          "word": "Sphere",
+          "emoji": "⚫",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "P",
+          "word": "Pyramid",
+          "emoji": "🔺",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Cylinder",
+          "emoji": "⭕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "C",
+          "word": "Cone",
+          "emoji": "🔺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "D",
+          "word": "Diamond",
+          "emoji": "💎",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "R",
+          "word": "Rectangle",
+          "emoji": "🟦",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "T",
+          "word": "Triangle",
+          "emoji": "🔺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Octahedron",
+          "emoji": "💎",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "T",
+          "word": "Tetrahedron",
+          "emoji": "🔺",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "P",
+          "word": "Prism",
+          "emoji": "🔷",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "D",
+          "word": "Dodecahedron",
+          "emoji": "💎",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "I",
+          "word": "Icosahedron",
+          "emoji": "💎",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Cube",
+          "emoji": "🟥",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "S",
+          "word": "Square",
+          "emoji": "🟨",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Circle",
+          "emoji": "⭕",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "H",
+          "word": "Hexagon",
+          "emoji": "🔷",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "P",
+          "word": "Pentagon",
+          "emoji": "🔷",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "S",
+          "word": "Star",
+          "emoji": "⭐",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "R",
+          "word": "Rhombus",
+          "emoji": "🔷",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "T",
+          "word": "Trapezoid",
+          "emoji": "🔷",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "O",
+          "word": "Oval",
+          "emoji": "⭕",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "E",
+          "word": "Ellipse",
+          "emoji": "⭕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "A",
+          "word": "Arc",
+          "emoji": "🔷",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "L",
+          "word": "Line",
+          "emoji": "📏",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "A",
+          "word": "Angle",
+          "emoji": "🔺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Curve",
+          "emoji": "🌈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "V",
+          "word": "Vertex",
+          "emoji": "⭐",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "E",
+          "word": "Edge",
+          "emoji": "📏",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "F",
+          "word": "Face",
+          "emoji": "🟦",
+          "bgColor": "#37474F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="Colors3dShapes3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "3D Shapes - Part 3",
+          videoId: "colors-3d-shapes-3",
+          bgGradient: ["#546E7A","#CFD8DC"] as [string, string],
+          accentColor: "#455A64",
+          letters: [
+          {
+          "letter": "C",
+          "word": "Cube",
+          "emoji": "🟥",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "S",
+          "word": "Sphere",
+          "emoji": "⚫",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "P",
+          "word": "Pyramid",
+          "emoji": "🔺",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Cylinder",
+          "emoji": "⭕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "C",
+          "word": "Cone",
+          "emoji": "🔺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "D",
+          "word": "Diamond",
+          "emoji": "💎",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "R",
+          "word": "Rectangle",
+          "emoji": "🟦",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "T",
+          "word": "Triangle",
+          "emoji": "🔺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "O",
+          "word": "Octahedron",
+          "emoji": "💎",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "T",
+          "word": "Tetrahedron",
+          "emoji": "🔺",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "P",
+          "word": "Prism",
+          "emoji": "🔷",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "D",
+          "word": "Dodecahedron",
+          "emoji": "💎",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "I",
+          "word": "Icosahedron",
+          "emoji": "💎",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "C",
+          "word": "Cube",
+          "emoji": "🟥",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "S",
+          "word": "Square",
+          "emoji": "🟨",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Circle",
+          "emoji": "⭕",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "H",
+          "word": "Hexagon",
+          "emoji": "🔷",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "P",
+          "word": "Pentagon",
+          "emoji": "🔷",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "S",
+          "word": "Star",
+          "emoji": "⭐",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "R",
+          "word": "Rhombus",
+          "emoji": "🔷",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "T",
+          "word": "Trapezoid",
+          "emoji": "🔷",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "O",
+          "word": "Oval",
+          "emoji": "⭕",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "E",
+          "word": "Ellipse",
+          "emoji": "⭕",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "A",
+          "word": "Arc",
+          "emoji": "🔷",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "L",
+          "word": "Line",
+          "emoji": "📏",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "A",
+          "word": "Angle",
+          "emoji": "🔺",
+          "bgColor": "#37474F"
+          },
+          {
+          "letter": "C",
+          "word": "Curve",
+          "emoji": "🌈",
+          "bgColor": "#546E7A"
+          },
+          {
+          "letter": "V",
+          "word": "Vertex",
+          "emoji": "⭐",
+          "bgColor": "#263238"
+          },
+          {
+          "letter": "E",
+          "word": "Edge",
+          "emoji": "📏",
+          "bgColor": "#455A64"
+          },
+          {
+          "letter": "F",
+          "word": "Face",
+          "emoji": "🟦",
+          "bgColor": "#37474F"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsArtColors1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Art & Paint Colors - Part 1",
+          videoId: "colors-art-colors-1",
+          bgGradient: ["#AD1457","#F48FB1"] as [string, string],
+          accentColor: "#880E4F",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "V",
+          "word": "Violet",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "C",
+          "word": "Crimson",
+          "emoji": "❤️",
+          "bgColor": "#C41C3B"
+          },
+          {
+          "letter": "S",
+          "word": "Scarlet",
+          "emoji": "🔴",
+          "bgColor": "#FF2400"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "M",
+          "word": "Maroon",
+          "emoji": "❤️",
+          "bgColor": "#800000"
+          },
+          {
+          "letter": "P",
+          "word": "Plum",
+          "emoji": "🟣",
+          "bgColor": "#893F8B"
+          },
+          {
+          "letter": "M",
+          "word": "Mauve",
+          "emoji": "🟣",
+          "bgColor": "#8B7BA8"
+          },
+          {
+          "letter": "L",
+          "word": "Lilac",
+          "emoji": "🟣",
+          "bgColor": "#B19CD9"
+          },
+          {
+          "letter": "R",
+          "word": "Rose",
+          "emoji": "❤️",
+          "bgColor": "#C72C5B"
+          },
+          {
+          "letter": "W",
+          "word": "Wine",
+          "emoji": "❤️",
+          "bgColor": "#722F37"
+          },
+          {
+          "letter": "O",
+          "word": "Orchid",
+          "emoji": "🟣",
+          "bgColor": "#DA70D6"
+          },
+          {
+          "letter": "M",
+          "word": "Magenta",
+          "emoji": "🟣",
+          "bgColor": "#FF00FF"
+          },
+          {
+          "letter": "F",
+          "word": "Fuchsia",
+          "emoji": "🟣",
+          "bgColor": "#FF20F0"
+          },
+          {
+          "letter": "B",
+          "word": "Berry",
+          "emoji": "🟣",
+          "bgColor": "#3F2140"
+          },
+          {
+          "letter": "A",
+          "word": "Aubergine",
+          "emoji": "🟣",
+          "bgColor": "#371F1F"
+          },
+          {
+          "letter": "T",
+          "word": "Taupe",
+          "emoji": "🟤",
+          "bgColor": "#B38B6D"
+          },
+          {
+          "letter": "U",
+          "word": "Umber",
+          "emoji": "🟤",
+          "bgColor": "#635147"
+          },
+          {
+          "letter": "S",
+          "word": "Sienna",
+          "emoji": "🟤",
+          "bgColor": "#882D17"
+          },
+          {
+          "letter": "O",
+          "word": "Ochre",
+          "emoji": "🟨",
+          "bgColor": "#CC7000"
+          },
+          {
+          "letter": "B",
+          "word": "Burnt",
+          "emoji": "🟤",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "R",
+          "word": "Raw",
+          "emoji": "🟤",
+          "bgColor": "#826644"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "S",
+          "word": "Silver",
+          "emoji": "🥈",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "P",
+          "word": "Platinum",
+          "emoji": "🥈",
+          "bgColor": "#E5E4E2"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#B87333"
+          },
+          {
+          "letter": "T",
+          "word": "Titanium",
+          "emoji": "⚪",
+          "bgColor": "#CFD0CF"
+          },
+          {
+          "letter": "A",
+          "word": "Art",
+          "emoji": "🌈",
+          "bgColor": "#FF1493"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsArtColors2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Art & Paint Colors - Part 2",
+          videoId: "colors-art-colors-2",
+          bgGradient: ["#C2185B","#F8BBD0"] as [string, string],
+          accentColor: "#AD1457",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "V",
+          "word": "Violet",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "C",
+          "word": "Crimson",
+          "emoji": "❤️",
+          "bgColor": "#C41C3B"
+          },
+          {
+          "letter": "S",
+          "word": "Scarlet",
+          "emoji": "🔴",
+          "bgColor": "#FF2400"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "M",
+          "word": "Maroon",
+          "emoji": "❤️",
+          "bgColor": "#800000"
+          },
+          {
+          "letter": "P",
+          "word": "Plum",
+          "emoji": "🟣",
+          "bgColor": "#893F8B"
+          },
+          {
+          "letter": "M",
+          "word": "Mauve",
+          "emoji": "🟣",
+          "bgColor": "#8B7BA8"
+          },
+          {
+          "letter": "L",
+          "word": "Lilac",
+          "emoji": "🟣",
+          "bgColor": "#B19CD9"
+          },
+          {
+          "letter": "R",
+          "word": "Rose",
+          "emoji": "❤️",
+          "bgColor": "#C72C5B"
+          },
+          {
+          "letter": "W",
+          "word": "Wine",
+          "emoji": "❤️",
+          "bgColor": "#722F37"
+          },
+          {
+          "letter": "O",
+          "word": "Orchid",
+          "emoji": "🟣",
+          "bgColor": "#DA70D6"
+          },
+          {
+          "letter": "M",
+          "word": "Magenta",
+          "emoji": "🟣",
+          "bgColor": "#FF00FF"
+          },
+          {
+          "letter": "F",
+          "word": "Fuchsia",
+          "emoji": "🟣",
+          "bgColor": "#FF20F0"
+          },
+          {
+          "letter": "B",
+          "word": "Berry",
+          "emoji": "🟣",
+          "bgColor": "#3F2140"
+          },
+          {
+          "letter": "A",
+          "word": "Aubergine",
+          "emoji": "🟣",
+          "bgColor": "#371F1F"
+          },
+          {
+          "letter": "T",
+          "word": "Taupe",
+          "emoji": "🟤",
+          "bgColor": "#B38B6D"
+          },
+          {
+          "letter": "U",
+          "word": "Umber",
+          "emoji": "🟤",
+          "bgColor": "#635147"
+          },
+          {
+          "letter": "S",
+          "word": "Sienna",
+          "emoji": "🟤",
+          "bgColor": "#882D17"
+          },
+          {
+          "letter": "O",
+          "word": "Ochre",
+          "emoji": "🟨",
+          "bgColor": "#CC7000"
+          },
+          {
+          "letter": "B",
+          "word": "Burnt",
+          "emoji": "🟤",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "R",
+          "word": "Raw",
+          "emoji": "🟤",
+          "bgColor": "#826644"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "S",
+          "word": "Silver",
+          "emoji": "🥈",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "P",
+          "word": "Platinum",
+          "emoji": "🥈",
+          "bgColor": "#E5E4E2"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#B87333"
+          },
+          {
+          "letter": "T",
+          "word": "Titanium",
+          "emoji": "⚪",
+          "bgColor": "#CFD0CF"
+          },
+          {
+          "letter": "A",
+          "word": "Art",
+          "emoji": "🌈",
+          "bgColor": "#FF1493"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsArtColors3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Art & Paint Colors - Part 3",
+          videoId: "colors-art-colors-3",
+          bgGradient: ["#D81B60","#FCE4EC"] as [string, string],
+          accentColor: "#C2185B",
+          letters: [
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#AD1457"
+          },
+          {
+          "letter": "V",
+          "word": "Violet",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "C",
+          "word": "Crimson",
+          "emoji": "❤️",
+          "bgColor": "#C41C3B"
+          },
+          {
+          "letter": "S",
+          "word": "Scarlet",
+          "emoji": "🔴",
+          "bgColor": "#FF2400"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#800080"
+          },
+          {
+          "letter": "M",
+          "word": "Maroon",
+          "emoji": "❤️",
+          "bgColor": "#800000"
+          },
+          {
+          "letter": "P",
+          "word": "Plum",
+          "emoji": "🟣",
+          "bgColor": "#893F8B"
+          },
+          {
+          "letter": "M",
+          "word": "Mauve",
+          "emoji": "🟣",
+          "bgColor": "#8B7BA8"
+          },
+          {
+          "letter": "L",
+          "word": "Lilac",
+          "emoji": "🟣",
+          "bgColor": "#B19CD9"
+          },
+          {
+          "letter": "R",
+          "word": "Rose",
+          "emoji": "❤️",
+          "bgColor": "#C72C5B"
+          },
+          {
+          "letter": "W",
+          "word": "Wine",
+          "emoji": "❤️",
+          "bgColor": "#722F37"
+          },
+          {
+          "letter": "O",
+          "word": "Orchid",
+          "emoji": "🟣",
+          "bgColor": "#DA70D6"
+          },
+          {
+          "letter": "M",
+          "word": "Magenta",
+          "emoji": "🟣",
+          "bgColor": "#FF00FF"
+          },
+          {
+          "letter": "F",
+          "word": "Fuchsia",
+          "emoji": "🟣",
+          "bgColor": "#FF20F0"
+          },
+          {
+          "letter": "B",
+          "word": "Berry",
+          "emoji": "🟣",
+          "bgColor": "#3F2140"
+          },
+          {
+          "letter": "A",
+          "word": "Aubergine",
+          "emoji": "🟣",
+          "bgColor": "#371F1F"
+          },
+          {
+          "letter": "T",
+          "word": "Taupe",
+          "emoji": "🟤",
+          "bgColor": "#B38B6D"
+          },
+          {
+          "letter": "U",
+          "word": "Umber",
+          "emoji": "🟤",
+          "bgColor": "#635147"
+          },
+          {
+          "letter": "S",
+          "word": "Sienna",
+          "emoji": "🟤",
+          "bgColor": "#882D17"
+          },
+          {
+          "letter": "O",
+          "word": "Ochre",
+          "emoji": "🟨",
+          "bgColor": "#CC7000"
+          },
+          {
+          "letter": "B",
+          "word": "Burnt",
+          "emoji": "🟤",
+          "bgColor": "#8B4513"
+          },
+          {
+          "letter": "R",
+          "word": "Raw",
+          "emoji": "🟤",
+          "bgColor": "#826644"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFD700"
+          },
+          {
+          "letter": "S",
+          "word": "Silver",
+          "emoji": "🥈",
+          "bgColor": "#C0C0C0"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "P",
+          "word": "Platinum",
+          "emoji": "🥈",
+          "bgColor": "#E5E4E2"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#B87333"
+          },
+          {
+          "letter": "T",
+          "word": "Titanium",
+          "emoji": "⚪",
+          "bgColor": "#CFD0CF"
+          },
+          {
+          "letter": "A",
+          "word": "Art",
+          "emoji": "🌈",
+          "bgColor": "#FF1493"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsPatterns1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Patterns & Designs - Part 1",
+          videoId: "colors-patterns-1",
+          bgGradient: ["#795548","#D7CCC8"] as [string, string],
+          accentColor: "#4E342E",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dots",
+          "emoji": "⭕",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Stripes",
+          "emoji": "📏",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "C",
+          "word": "Checkerboard",
+          "emoji": "🟥",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "Z",
+          "word": "Zigzag",
+          "emoji": "🌈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "W",
+          "word": "Waves",
+          "emoji": "🌊",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Spirals",
+          "emoji": "🌈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "G",
+          "word": "Grid",
+          "emoji": "🔷",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "M",
+          "word": "Mosaic",
+          "emoji": "🌈",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "B",
+          "word": "Blossoms",
+          "emoji": "🌼",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "F",
+          "word": "Flowers",
+          "emoji": "🌸",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "L",
+          "word": "Lines",
+          "emoji": "📏",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Triangles",
+          "emoji": "🔺",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Circles",
+          "emoji": "⭕",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "S",
+          "word": "Squares",
+          "emoji": "🟥",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "R",
+          "word": "Rings",
+          "emoji": "⭕",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "D",
+          "word": "Diamonds",
+          "emoji": "💎",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "H",
+          "word": "Hexagons",
+          "emoji": "🔷",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Stars",
+          "emoji": "⭐",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Crosses",
+          "emoji": "✕",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "P",
+          "word": "Plus",
+          "emoji": "➕",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "X",
+          "word": "X",
+          "emoji": "❌",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "A",
+          "word": "Arrows",
+          "emoji": "➡️",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "V",
+          "word": "Vines",
+          "emoji": "🌿",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "L",
+          "word": "Leaves",
+          "emoji": "🍃",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Paisley",
+          "emoji": "🌈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "T",
+          "word": "Tile",
+          "emoji": "🔷",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Texture",
+          "emoji": "🌈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pattern",
+          "emoji": "🌈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "D",
+          "word": "Design",
+          "emoji": "🎨",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "O",
+          "word": "Ornament",
+          "emoji": "🌈",
+          "bgColor": "#8D6E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsPatterns2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Patterns & Designs - Part 2",
+          videoId: "colors-patterns-2",
+          bgGradient: ["#6D4C41","#BCAAA4"] as [string, string],
+          accentColor: "#3E2723",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dots",
+          "emoji": "⭕",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Stripes",
+          "emoji": "📏",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "C",
+          "word": "Checkerboard",
+          "emoji": "🟥",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "Z",
+          "word": "Zigzag",
+          "emoji": "🌈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "W",
+          "word": "Waves",
+          "emoji": "🌊",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Spirals",
+          "emoji": "🌈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "G",
+          "word": "Grid",
+          "emoji": "🔷",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "M",
+          "word": "Mosaic",
+          "emoji": "🌈",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "B",
+          "word": "Blossoms",
+          "emoji": "🌼",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "F",
+          "word": "Flowers",
+          "emoji": "🌸",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "L",
+          "word": "Lines",
+          "emoji": "📏",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Triangles",
+          "emoji": "🔺",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Circles",
+          "emoji": "⭕",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "S",
+          "word": "Squares",
+          "emoji": "🟥",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "R",
+          "word": "Rings",
+          "emoji": "⭕",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "D",
+          "word": "Diamonds",
+          "emoji": "💎",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "H",
+          "word": "Hexagons",
+          "emoji": "🔷",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Stars",
+          "emoji": "⭐",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Crosses",
+          "emoji": "✕",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "P",
+          "word": "Plus",
+          "emoji": "➕",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "X",
+          "word": "X",
+          "emoji": "❌",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "A",
+          "word": "Arrows",
+          "emoji": "➡️",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "V",
+          "word": "Vines",
+          "emoji": "🌿",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "L",
+          "word": "Leaves",
+          "emoji": "🍃",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Paisley",
+          "emoji": "🌈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "T",
+          "word": "Tile",
+          "emoji": "🔷",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Texture",
+          "emoji": "🌈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pattern",
+          "emoji": "🌈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "D",
+          "word": "Design",
+          "emoji": "🎨",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "O",
+          "word": "Ornament",
+          "emoji": "🌈",
+          "bgColor": "#8D6E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsPatterns3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Patterns & Designs - Part 3",
+          videoId: "colors-patterns-3",
+          bgGradient: ["#8D6E63","#EFEBE9"] as [string, string],
+          accentColor: "#4E342E",
+          letters: [
+          {
+          "letter": "D",
+          "word": "Dots",
+          "emoji": "⭕",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Stripes",
+          "emoji": "📏",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "C",
+          "word": "Checkerboard",
+          "emoji": "🟥",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "Z",
+          "word": "Zigzag",
+          "emoji": "🌈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "W",
+          "word": "Waves",
+          "emoji": "🌊",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Spirals",
+          "emoji": "🌈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "G",
+          "word": "Grid",
+          "emoji": "🔷",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "M",
+          "word": "Mosaic",
+          "emoji": "🌈",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "B",
+          "word": "Blossoms",
+          "emoji": "🌼",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "F",
+          "word": "Flowers",
+          "emoji": "🌸",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "L",
+          "word": "Lines",
+          "emoji": "📏",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Triangles",
+          "emoji": "🔺",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Circles",
+          "emoji": "⭕",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "S",
+          "word": "Squares",
+          "emoji": "🟥",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "R",
+          "word": "Rings",
+          "emoji": "⭕",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "D",
+          "word": "Diamonds",
+          "emoji": "💎",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "H",
+          "word": "Hexagons",
+          "emoji": "🔷",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "S",
+          "word": "Stars",
+          "emoji": "⭐",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "C",
+          "word": "Crosses",
+          "emoji": "✕",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "P",
+          "word": "Plus",
+          "emoji": "➕",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "X",
+          "word": "X",
+          "emoji": "❌",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "A",
+          "word": "Arrows",
+          "emoji": "➡️",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "V",
+          "word": "Vines",
+          "emoji": "🌿",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "L",
+          "word": "Leaves",
+          "emoji": "🍃",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Paisley",
+          "emoji": "🌈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "T",
+          "word": "Tile",
+          "emoji": "🔷",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "T",
+          "word": "Texture",
+          "emoji": "🌈",
+          "bgColor": "#8D6E63"
+          },
+          {
+          "letter": "P",
+          "word": "Pattern",
+          "emoji": "🌈",
+          "bgColor": "#6D4C41"
+          },
+          {
+          "letter": "D",
+          "word": "Design",
+          "emoji": "🎨",
+          "bgColor": "#795548"
+          },
+          {
+          "letter": "O",
+          "word": "Ornament",
+          "emoji": "🌈",
+          "bgColor": "#8D6E63"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsIndianColors1"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Colors - Part 1",
+          videoId: "colors-indian-colors-1",
+          bgGradient: ["#E65100","#FFCC80"] as [string, string],
+          accentColor: "#BF360C",
+          letters: [
+          {
+          "letter": "H",
+          "word": "Holi",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "S",
+          "word": "Saffron",
+          "emoji": "🟨",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "G",
+          "word": "Green",
+          "emoji": "🟢",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "W",
+          "word": "White",
+          "emoji": "⚪",
+          "bgColor": "#FFFFFF"
+          },
+          {
+          "letter": "R",
+          "word": "Rangoli",
+          "emoji": "🌈",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "M",
+          "word": "Mehendi",
+          "emoji": "🟢",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "B",
+          "word": "Blue",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "T",
+          "word": "Turquoise",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "P",
+          "word": "Pink",
+          "emoji": "🩷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow",
+          "emoji": "🟡",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "C",
+          "word": "Crimson",
+          "emoji": "❤️",
+          "bgColor": "#C41C3B"
+          },
+          {
+          "letter": "M",
+          "word": "Marigold",
+          "emoji": "🟡",
+          "bgColor": "#FFB300"
+          },
+          {
+          "letter": "L",
+          "word": "Lotus",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "T",
+          "word": "Turmeric",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "B",
+          "word": "Bindhi",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Silk",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "J",
+          "word": "Jewel",
+          "emoji": "💎",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "A",
+          "word": "Amber",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "T",
+          "word": "Traditional",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "V",
+          "word": "Vibrant",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "R",
+          "word": "Rich",
+          "emoji": "💎",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "D",
+          "word": "Deep",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "C",
+          "word": "Color",
+          "emoji": "🌈",
+          "bgColor": "#FF8F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsIndianColors2"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Colors - Part 2",
+          videoId: "colors-indian-colors-2",
+          bgGradient: ["#EF6C00","#FFE0B2"] as [string, string],
+          accentColor: "#E65100",
+          letters: [
+          {
+          "letter": "H",
+          "word": "Holi",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "S",
+          "word": "Saffron",
+          "emoji": "🟨",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "G",
+          "word": "Green",
+          "emoji": "🟢",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "W",
+          "word": "White",
+          "emoji": "⚪",
+          "bgColor": "#FFFFFF"
+          },
+          {
+          "letter": "R",
+          "word": "Rangoli",
+          "emoji": "🌈",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "M",
+          "word": "Mehendi",
+          "emoji": "🟢",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "B",
+          "word": "Blue",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "T",
+          "word": "Turquoise",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "P",
+          "word": "Pink",
+          "emoji": "🩷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow",
+          "emoji": "🟡",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "C",
+          "word": "Crimson",
+          "emoji": "❤️",
+          "bgColor": "#C41C3B"
+          },
+          {
+          "letter": "M",
+          "word": "Marigold",
+          "emoji": "🟡",
+          "bgColor": "#FFB300"
+          },
+          {
+          "letter": "L",
+          "word": "Lotus",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "T",
+          "word": "Turmeric",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "B",
+          "word": "Bindhi",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Silk",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "J",
+          "word": "Jewel",
+          "emoji": "💎",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "A",
+          "word": "Amber",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "T",
+          "word": "Traditional",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "V",
+          "word": "Vibrant",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "R",
+          "word": "Rich",
+          "emoji": "💎",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "D",
+          "word": "Deep",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "C",
+          "word": "Color",
+          "emoji": "🌈",
+          "bgColor": "#FF8F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsIndianColors3"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "Indian Colors - Part 3",
+          videoId: "colors-indian-colors-3",
+          bgGradient: ["#F57C00","#FFF3E0"] as [string, string],
+          accentColor: "#EF6C00",
+          letters: [
+          {
+          "letter": "H",
+          "word": "Holi",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "S",
+          "word": "Saffron",
+          "emoji": "🟨",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "G",
+          "word": "Green",
+          "emoji": "🟢",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "W",
+          "word": "White",
+          "emoji": "⚪",
+          "bgColor": "#FFFFFF"
+          },
+          {
+          "letter": "R",
+          "word": "Rangoli",
+          "emoji": "🌈",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "M",
+          "word": "Mehendi",
+          "emoji": "🟢",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "B",
+          "word": "Blue",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "T",
+          "word": "Turquoise",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "P",
+          "word": "Pink",
+          "emoji": "🩷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow",
+          "emoji": "🟡",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "C",
+          "word": "Crimson",
+          "emoji": "❤️",
+          "bgColor": "#C41C3B"
+          },
+          {
+          "letter": "M",
+          "word": "Marigold",
+          "emoji": "🟡",
+          "bgColor": "#FFB300"
+          },
+          {
+          "letter": "L",
+          "word": "Lotus",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "T",
+          "word": "Turmeric",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "B",
+          "word": "Bindhi",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Silk",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "J",
+          "word": "Jewel",
+          "emoji": "💎",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "A",
+          "word": "Amber",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "T",
+          "word": "Traditional",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "V",
+          "word": "Vibrant",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "R",
+          "word": "Rich",
+          "emoji": "💎",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "D",
+          "word": "Deep",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "C",
+          "word": "Color",
+          "emoji": "🌈",
+          "bgColor": "#FF8F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
+      <Composition
+        id="ColorsAllColors"
+        component={AlphabetShortsTemplate}
+        durationInFrames={2880}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          title: "All Colors Collection",
+          videoId: "colors-all-colors",
+          bgGradient: ["#6A1B9A","#E1BEE7"] as [string, string],
+          accentColor: "#4A148C",
+          letters: [
+          {
+          "letter": "H",
+          "word": "Holi",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "S",
+          "word": "Saffron",
+          "emoji": "🟨",
+          "bgColor": "#FF8F00"
+          },
+          {
+          "letter": "G",
+          "word": "Green",
+          "emoji": "🟢",
+          "bgColor": "#1B5E20"
+          },
+          {
+          "letter": "W",
+          "word": "White",
+          "emoji": "⚪",
+          "bgColor": "#FFFFFF"
+          },
+          {
+          "letter": "R",
+          "word": "Rangoli",
+          "emoji": "🌈",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "M",
+          "word": "Mehendi",
+          "emoji": "🟢",
+          "bgColor": "#558B2F"
+          },
+          {
+          "letter": "B",
+          "word": "Blue",
+          "emoji": "🔵",
+          "bgColor": "#0277BD"
+          },
+          {
+          "letter": "T",
+          "word": "Turquoise",
+          "emoji": "🔵",
+          "bgColor": "#00838F"
+          },
+          {
+          "letter": "P",
+          "word": "Pink",
+          "emoji": "🩷",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "Y",
+          "word": "Yellow",
+          "emoji": "🟡",
+          "bgColor": "#FBC02D"
+          },
+          {
+          "letter": "R",
+          "word": "Red",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "O",
+          "word": "Orange",
+          "emoji": "🟠",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "P",
+          "word": "Purple",
+          "emoji": "🟣",
+          "bgColor": "#6A1B9A"
+          },
+          {
+          "letter": "I",
+          "word": "Indigo",
+          "emoji": "🔵",
+          "bgColor": "#1A237E"
+          },
+          {
+          "letter": "C",
+          "word": "Crimson",
+          "emoji": "❤️",
+          "bgColor": "#C41C3B"
+          },
+          {
+          "letter": "M",
+          "word": "Marigold",
+          "emoji": "🟡",
+          "bgColor": "#FFB300"
+          },
+          {
+          "letter": "L",
+          "word": "Lotus",
+          "emoji": "🌸",
+          "bgColor": "#E91E63"
+          },
+          {
+          "letter": "T",
+          "word": "Turmeric",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "B",
+          "word": "Bindhi",
+          "emoji": "🔴",
+          "bgColor": "#D32F2F"
+          },
+          {
+          "letter": "S",
+          "word": "Silk",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "J",
+          "word": "Jewel",
+          "emoji": "💎",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "G",
+          "word": "Gold",
+          "emoji": "🥇",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "A",
+          "word": "Amber",
+          "emoji": "🟨",
+          "bgColor": "#FFA000"
+          },
+          {
+          "letter": "C",
+          "word": "Copper",
+          "emoji": "🟤",
+          "bgColor": "#BF360C"
+          },
+          {
+          "letter": "B",
+          "word": "Bronze",
+          "emoji": "🟤",
+          "bgColor": "#CD7F32"
+          },
+          {
+          "letter": "T",
+          "word": "Traditional",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "V",
+          "word": "Vibrant",
+          "emoji": "🌈",
+          "bgColor": "#FF6F00"
+          },
+          {
+          "letter": "R",
+          "word": "Rich",
+          "emoji": "💎",
+          "bgColor": "#D81B60"
+          },
+          {
+          "letter": "D",
+          "word": "Deep",
+          "emoji": "🌈",
+          "bgColor": "#E65100"
+          },
+          {
+          "letter": "C",
+          "word": "Color",
+          "emoji": "🌈",
+          "bgColor": "#FF8F00"
+          }
+          ],
+          letterDuration: 3,
+          introDuration: 3,
+          outroDuration: 3,
+        }}
+      />
     </>
   );
 };
