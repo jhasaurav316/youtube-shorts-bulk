@@ -3878,5 +3878,1945 @@
     "letterDuration": 3,
     "introDuration": 3,
     "outroDuration": 3
+  },
+  {
+    "id": "insects-forest-insects-3",
+    "title": "Forest Insects - Part 3",
+    "bgGradient": [
+      "#1B5E20",
+      "#C8E6C9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "insects-tropical-insects-2",
+    "title": "Tropical Insects - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "insects-tropical-insects-3",
+    "title": "Tropical Insects - Part 3",
+    "bgGradient": [
+      "#FFA000",
+      "#FFECB3"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "insects-tiny-creatures-2",
+    "title": "Tiny Creatures - Part 2",
+    "bgGradient": [
+      "#00796B",
+      "#80CBC4"
+    ],
+    "accentColor": "#00695C",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "insects-tiny-creatures-3",
+    "title": "Tiny Creatures - Part 3",
+    "bgGradient": [
+      "#00695C",
+      "#4DB6AC"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "insects-night-insects-1",
+    "title": "Night Insects - Part 1",
+    "bgGradient": [
+      "#1A237E",
+      "#7986CB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "insects-night-insects-2",
+    "title": "Night Insects - Part 2",
+    "bgGradient": [
+      "#283593",
+      "#9FA8DA"
+    ],
+    "accentColor": "#1A237E",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "insects-night-insects-3",
+    "title": "Night Insects - Part 3",
+    "bgGradient": [
+      "#303F9F",
+      "#C5CAE9"
+    ],
+    "accentColor": "#283593",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "insects-amazing-insects-2",
+    "title": "Amazing Insects - Part 2",
+    "bgGradient": [
+      "#D32F2F",
+      "#EF9A9A"
+    ],
+    "accentColor": "#C62828",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "insects-amazing-insects-3",
+    "title": "Amazing Insects - Part 3",
+    "bgGradient": [
+      "#E53935",
+      "#FFEBEE"
+    ],
+    "accentColor": "#D32F2F",
+    "items": [
+      {
+        "letter": "A",
+        "word": "Ant",
+        "emoji": "🐜",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#7B1FA2"
+      },
+      {
+        "letter": "C",
+        "word": "Cicada",
+        "emoji": "🪲",
+        "bgColor": "#00695C"
+      },
+      {
+        "letter": "D",
+        "word": "Dragonfly",
+        "emoji": "🪰",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "E",
+        "word": "Earwig",
+        "emoji": "🪳",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "F",
+        "word": "Firefly",
+        "emoji": "🪲",
+        "bgColor": "#FFC107"
+      },
+      {
+        "letter": "G",
+        "word": "Grasshopper",
+        "emoji": "🦗",
+        "bgColor": "#4CAF50"
+      },
+      {
+        "letter": "H",
+        "word": "Honeybee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "I",
+        "word": "Inchworm",
+        "emoji": "🐛",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "J",
+        "word": "June Bug",
+        "emoji": "🪲",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "K",
+        "word": "Katydid",
+        "emoji": "🦗",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Ladybug",
+        "emoji": "🐞",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Mosquito",
+        "emoji": "🦟",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "N",
+        "word": "Nymph",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "O",
+        "word": "Orange Tip",
+        "emoji": "🦋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Praying Mantis",
+        "emoji": "🦗",
+        "bgColor": "#558B2F"
+      },
+      {
+        "letter": "Q",
+        "word": "Queen Bee",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "R",
+        "word": "Robber Fly",
+        "emoji": "🪰",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Spider",
+        "emoji": "🕷️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "T",
+        "word": "Termite",
+        "emoji": "🪳",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwing Moth",
+        "emoji": "🪰",
+        "bgColor": "#4A235A"
+      },
+      {
+        "letter": "V",
+        "word": "Vespid Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFA000"
+      },
+      {
+        "letter": "W",
+        "word": "Wasp",
+        "emoji": "🐝",
+        "bgColor": "#FFB300"
+      },
+      {
+        "letter": "X",
+        "word": "Xeme Insect",
+        "emoji": "🦗",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yellow Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Z",
+        "word": "Zebra Butterfly",
+        "emoji": "🦋",
+        "bgColor": "#000000"
+      },
+      {
+        "letter": "A",
+        "word": "Antlion",
+        "emoji": "🐜",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "B",
+        "word": "Blister Beetle",
+        "emoji": "🪲",
+        "bgColor": "#F57C00"
+      },
+      {
+        "letter": "C",
+        "word": "Cockroach",
+        "emoji": "🪳",
+        "bgColor": "#3E2723"
+      },
+      {
+        "letter": "D",
+        "word": "Dung Beetle",
+        "emoji": "🪲",
+        "bgColor": "#3F2C2C"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
   }
 ]

@@ -1,0 +1,704 @@
+======================================================================
+LYRICS: INSTRUMENT NAMES (10 Videos, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#1. String Instruments - Part 1 (instruments-string-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-string-1-audio/
+
+Letter 0: S for Sitar
+Letter 1: G for Guitar
+Letter 2: V for Violin
+Letter 3: T for Tabla
+Letter 4: V for Veena
+Letter 5: H for Harp
+Letter 6: B for Banjo
+Letter 7: M for Mandolin
+Letter 8: U for Ukulele
+Letter 9: C for Cello
+Letter 10: D for Dulcimer
+Letter 11: E for Ektara
+Letter 12: S for Sarangi
+Letter 13: R for Rabab
+Letter 14: K for Kamancheh
+Letter 15: L for Lute
+Letter 16: Z for Zither
+Letter 17: P for Pipa
+Letter 18: A for Acoustic Guitar
+Letter 19: F for Fiddle
+Letter 20: N for Nagara
+Letter 21: O for Oud
+Letter 22: I for Indian Fiddle
+Letter 23: W for Wire Harp
+Letter 24: J for Japanese Koto
+Letter 25: X for Xylophone String
+Letter 26: Y for Yangqin
+Letter 27: Q for Qanun
+Letter 28: T for Tambura
+Letter 29: S for Santoor
+
+PLAIN TEXT:
+S for Sitar
+G for Guitar
+V for Violin
+T for Tabla
+V for Veena
+H for Harp
+B for Banjo
+M for Mandolin
+U for Ukulele
+C for Cello
+D for Dulcimer
+E for Ektara
+S for Sarangi
+R for Rabab
+K for Kamancheh
+L for Lute
+Z for Zither
+P for Pipa
+A for Acoustic Guitar
+F for Fiddle
+N for Nagara
+O for Oud
+I for Indian Fiddle
+W for Wire Harp
+J for Japanese Koto
+X for Xylophone String
+Y for Yangqin
+Q for Qanun
+T for Tambura
+S for Santoor
+
+
+----------------------------------------------------------------------
+#2. String Instruments - Part 2 (instruments-string-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-string-2-audio/
+
+Letter 0: E for Electric Guitar
+Letter 1: B for Bass Guitar
+Letter 2: C for Classical Guitar
+Letter 3: S for Steel Guitar
+Letter 4: M for Mohan Veena
+Letter 5: R for Ravanhatha
+Letter 6: D for Dotara
+Letter 7: G for Gopichand
+Letter 8: T for Taus
+Letter 9: K for Kinnari
+Letter 10: P for Pena
+Letter 11: H for Hawaiian Guitar
+Letter 12: V for Viola
+Letter 13: L for Lyre
+Letter 14: A for Autoharp
+Letter 15: N for Nyckelharpa
+Letter 16: O for Octobass
+Letter 17: F for Flamenco Guitar
+Letter 18: W for Washboard
+Letter 19: J for Jawbone
+Letter 20: I for Irish Bouzouki
+Letter 21: U for Upright Bass
+Letter 22: X for Xalam
+Letter 23: Y for Yazhh
+Letter 24: Z for Zurna String
+Letter 25: Q for Qin
+Letter 26: S for Sarod
+Letter 27: T for Tumbi
+Letter 28: B for Bulbul Tarang
+Letter 29: C for Chikari
+
+PLAIN TEXT:
+E for Electric Guitar
+B for Bass Guitar
+C for Classical Guitar
+S for Steel Guitar
+M for Mohan Veena
+R for Ravanhatha
+D for Dotara
+G for Gopichand
+T for Taus
+K for Kinnari
+P for Pena
+H for Hawaiian Guitar
+V for Viola
+L for Lyre
+A for Autoharp
+N for Nyckelharpa
+O for Octobass
+F for Flamenco Guitar
+W for Washboard
+J for Jawbone
+I for Irish Bouzouki
+U for Upright Bass
+X for Xalam
+Y for Yazhh
+Z for Zurna String
+Q for Qin
+S for Sarod
+T for Tumbi
+B for Bulbul Tarang
+C for Chikari
+
+
+----------------------------------------------------------------------
+#3. String Instruments - Part 3 (instruments-string-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-string-3-audio/
+
+Letter 0: S for Surbahar
+Letter 1: R for Rubab
+Letter 2: V for Vichitra Veena
+Letter 3: G for Gottuvadhyam
+Letter 4: D for Dilruba
+Letter 5: E for Esraj
+Letter 6: K for Kamaicha
+Letter 7: M for Mayuri Veena
+Letter 8: T for Tanpura
+Letter 9: P for Pulluvan Veena
+Letter 10: H for Hamza
+Letter 11: B for Baglama
+Letter 12: C for Charango
+Letter 13: L for Langspil
+Letter 14: A for Arpeggione
+Letter 15: N for Ngoni
+Letter 16: O for Orpharion
+Letter 17: F for Five String
+Letter 18: W for Welsh Harp
+Letter 19: J for Jal Tarang
+Letter 20: I for Ikembe
+Letter 21: U for Ud
+Letter 22: X for Xun String
+Letter 23: Y for Yaylı Tambur
+Letter 24: Z for Zhongruan
+Letter 25: Q for Quinton
+Letter 26: S for Swarmandal
+Letter 27: T for Triveni
+Letter 28: B for Been
+Letter 29: M for Morin Khuur
+
+PLAIN TEXT:
+S for Surbahar
+R for Rubab
+V for Vichitra Veena
+G for Gottuvadhyam
+D for Dilruba
+E for Esraj
+K for Kamaicha
+M for Mayuri Veena
+T for Tanpura
+P for Pulluvan Veena
+H for Hamza
+B for Baglama
+C for Charango
+L for Langspil
+A for Arpeggione
+N for Ngoni
+O for Orpharion
+F for Five String
+W for Welsh Harp
+J for Jal Tarang
+I for Ikembe
+U for Ud
+X for Xun String
+Y for Yaylı Tambur
+Z for Zhongruan
+Q for Quinton
+S for Swarmandal
+T for Triveni
+B for Been
+M for Morin Khuur
+
+
+----------------------------------------------------------------------
+#4. Wind Instruments - Part 1 (instruments-wind-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-wind-1-audio/
+
+Letter 0: F for Flute
+Letter 1: S for Shehnai
+Letter 2: C for Clarinet
+Letter 3: T for Trumpet
+Letter 4: S for Saxophone
+Letter 5: O for Oboe
+Letter 6: B for Bansuri
+Letter 7: H for Harmonica
+Letter 8: P for Pan Flute
+Letter 9: R for Recorder
+Letter 10: A for Alghoza
+Letter 11: N for Nadaswaram
+Letter 12: M for Mashak
+Letter 13: K for Kombu
+Letter 14: D for Dizi
+Letter 15: G for Gogona
+Letter 16: L for Liru
+Letter 17: E for English Horn
+Letter 18: W for Whistle
+Letter 19: I for Indian Flute
+Letter 20: J for Jew's Harp
+Letter 21: V for Venu
+Letter 22: U for Uilleann Pipes
+Letter 23: X for Xiao
+Letter 24: Y for Yahi
+Letter 25: Z for Zurna
+Letter 26: Q for Quena
+Letter 27: T for Tuba
+Letter 28: F for French Horn
+Letter 29: B for Bassoon
+
+PLAIN TEXT:
+F for Flute
+S for Shehnai
+C for Clarinet
+T for Trumpet
+S for Saxophone
+O for Oboe
+B for Bansuri
+H for Harmonica
+P for Pan Flute
+R for Recorder
+A for Alghoza
+N for Nadaswaram
+M for Mashak
+K for Kombu
+D for Dizi
+G for Gogona
+L for Liru
+E for English Horn
+W for Whistle
+I for Indian Flute
+J for Jew's Harp
+V for Venu
+U for Uilleann Pipes
+X for Xiao
+Y for Yahi
+Z for Zurna
+Q for Quena
+T for Tuba
+F for French Horn
+B for Bassoon
+
+
+----------------------------------------------------------------------
+#5. Wind Instruments - Part 2 (instruments-wind-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-wind-2-audio/
+
+Letter 0: P for Pungi
+Letter 1: S for Surpeti
+Letter 2: N for Nagaswaram
+Letter 3: M for Murli
+Letter 4: T for Titti
+Letter 5: A for Alto Sax
+Letter 6: B for Bugle
+Letter 7: C for Cornet
+Letter 8: D for Didgeridoo
+Letter 9: E for Euphonium
+Letter 10: F for Fife
+Letter 11: G for Gemshorn
+Letter 12: H for Horn
+Letter 13: I for Indian Shehnai
+Letter 14: K for Koumbu
+Letter 15: L for Low Whistle
+Letter 16: O for Ocarina
+Letter 17: R for Rauschpfeife
+Letter 18: W for Woodwind
+Letter 19: J for Japanese Flute
+Letter 20: V for Vuvuzela
+Letter 21: U for Uffizi Flute
+Letter 22: X for Xaphoon
+Letter 23: Y for Yamaha Wind
+Letter 24: Z for Zampogna
+Letter 25: Q for Quill Pipe
+Letter 26: S for Soprano Sax
+Letter 27: T for Tenor Sax
+Letter 28: B for Baritone Horn
+Letter 29: C for Contrabassoon
+
+PLAIN TEXT:
+P for Pungi
+S for Surpeti
+N for Nagaswaram
+M for Murli
+T for Titti
+A for Alto Sax
+B for Bugle
+C for Cornet
+D for Didgeridoo
+E for Euphonium
+F for Fife
+G for Gemshorn
+H for Horn
+I for Indian Shehnai
+K for Koumbu
+L for Low Whistle
+O for Ocarina
+R for Rauschpfeife
+W for Woodwind
+J for Japanese Flute
+V for Vuvuzela
+U for Uffizi Flute
+X for Xaphoon
+Y for Yamaha Wind
+Z for Zampogna
+Q for Quill Pipe
+S for Soprano Sax
+T for Tenor Sax
+B for Baritone Horn
+C for Contrabassoon
+
+
+----------------------------------------------------------------------
+#6. Wind Instruments - Part 3 (instruments-wind-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-wind-3-audio/
+
+Letter 0: K for Kahala
+Letter 1: S for Sido
+Letter 2: M for Mohori
+Letter 3: T for Taropi
+Letter 4: P for Pepa
+Letter 5: B for Bagpipe
+Letter 6: A for Alphorn
+Letter 7: C for Conch Shell
+Letter 8: D for Drone Pipe
+Letter 9: F for Flageolet
+Letter 10: G for Glass Flute
+Letter 11: H for Hunting Horn
+Letter 12: I for Irish Flute
+Letter 13: L for Lip Reed
+Letter 14: N for Native Flute
+Letter 15: O for Ophicleide
+Letter 16: R for Reedpipe
+Letter 17: E for English Concertina
+Letter 18: W for Wagner Tuba
+Letter 19: J for Jug
+Letter 20: V for Viking Horn
+Letter 21: U for Utogarashi
+Letter 22: X for Xun
+Letter 23: Y for Yi Flute
+Letter 24: Z for Zhaleika
+Letter 25: Q for Quail Pipe
+Letter 26: S for Shofar
+Letter 27: T for Tin Whistle
+Letter 28: B for Bombard
+Letter 29: M for Melodica
+
+PLAIN TEXT:
+K for Kahala
+S for Sido
+M for Mohori
+T for Taropi
+P for Pepa
+B for Bagpipe
+A for Alphorn
+C for Conch Shell
+D for Drone Pipe
+F for Flageolet
+G for Glass Flute
+H for Hunting Horn
+I for Irish Flute
+L for Lip Reed
+N for Native Flute
+O for Ophicleide
+R for Reedpipe
+E for English Concertina
+W for Wagner Tuba
+J for Jug
+V for Viking Horn
+U for Utogarashi
+X for Xun
+Y for Yi Flute
+Z for Zhaleika
+Q for Quail Pipe
+S for Shofar
+T for Tin Whistle
+B for Bombard
+M for Melodica
+
+
+----------------------------------------------------------------------
+#7. Percussion - Part 1 (instruments-percussion-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-percussion-1-audio/
+
+Letter 0: T for Tabla
+Letter 1: D for Dholak
+Letter 2: M for Mridangam
+Letter 3: P for Pakhawaj
+Letter 4: G for Ghatam
+Letter 5: K for Kanjira
+Letter 6: N for Naal
+Letter 7: S for Snare Drum
+Letter 8: B for Bass Drum
+Letter 9: C for Cymbal
+Letter 10: X for Xylophone
+Letter 11: T for Tambourine
+Letter 12: M for Maracas
+Letter 13: C for Castanets
+Letter 14: B for Bongo
+Letter 15: C for Conga
+Letter 16: G for Gong
+Letter 17: T for Triangle
+Letter 18: W for Wood Block
+Letter 19: C for Claves
+Letter 20: R for Rain Stick
+Letter 21: A for Agogo Bell
+Letter 22: H for Hand Pan
+Letter 23: J for Jingle Bell
+Letter 24: L for Log Drum
+Letter 25: V for Vibraphone
+Letter 26: O for Ocean Drum
+Letter 27: F for Floor Tom
+Letter 28: I for Indian Drum
+Letter 29: E for Electronic Drum
+
+PLAIN TEXT:
+T for Tabla
+D for Dholak
+M for Mridangam
+P for Pakhawaj
+G for Ghatam
+K for Kanjira
+N for Naal
+S for Snare Drum
+B for Bass Drum
+C for Cymbal
+X for Xylophone
+T for Tambourine
+M for Maracas
+C for Castanets
+B for Bongo
+C for Conga
+G for Gong
+T for Triangle
+W for Wood Block
+C for Claves
+R for Rain Stick
+A for Agogo Bell
+H for Hand Pan
+J for Jingle Bell
+L for Log Drum
+V for Vibraphone
+O for Ocean Drum
+F for Floor Tom
+I for Indian Drum
+E for Electronic Drum
+
+
+----------------------------------------------------------------------
+#8. Percussion - Part 2 (instruments-percussion-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-percussion-2-audio/
+
+Letter 0: D for Damaru
+Letter 1: N for Nagada
+Letter 2: C for Chenda
+Letter 3: T for Thavil
+Letter 4: M for Maddale
+Letter 5: U for Udukkai
+Letter 6: P for Parai
+Letter 7: I for Idakka
+Letter 8: K for Khol
+Letter 9: D for Dhol
+Letter 10: S for Steel Pan
+Letter 11: B for Bodhrán
+Letter 12: G for Guiro
+Letter 13: T for Timbale
+Letter 14: C for Cajon
+Letter 15: R for Rattle
+Letter 16: A for African Drum
+Letter 17: H for Hi-Hat
+Letter 18: J for Jembe
+Letter 19: W for Washboard
+Letter 20: L for Latin Drum
+Letter 21: F for Frame Drum
+Letter 22: O for Octapad
+Letter 23: V for Vibraslap
+Letter 24: E for Egg Shaker
+Letter 25: X for Xun Drum
+Letter 26: Y for Yaragh
+Letter 27: Z for Zarb
+Letter 28: Q for Quijada
+Letter 29: N for Nagara
+
+PLAIN TEXT:
+D for Damaru
+N for Nagada
+C for Chenda
+T for Thavil
+M for Maddale
+U for Udukkai
+P for Parai
+I for Idakka
+K for Khol
+D for Dhol
+S for Steel Pan
+B for Bodhrán
+G for Guiro
+T for Timbale
+C for Cajon
+R for Rattle
+A for African Drum
+H for Hi-Hat
+J for Jembe
+W for Washboard
+L for Latin Drum
+F for Frame Drum
+O for Octapad
+V for Vibraslap
+E for Egg Shaker
+X for Xun Drum
+Y for Yaragh
+Z for Zarb
+Q for Quijada
+N for Nagara
+
+
+----------------------------------------------------------------------
+#9. Percussion - Part 3 (instruments-percussion-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-percussion-3-audio/
+
+Letter 0: S for Surdo
+Letter 1: T for Talking Drum
+Letter 2: A for Ashiko
+Letter 3: B for Berimbau
+Letter 4: C for Cuica
+Letter 5: D for Dundun
+Letter 6: F for Finger Cymbal
+Letter 7: G for Ganza
+Letter 8: H for Hang Drum
+Letter 9: I for Indian Ghatam
+Letter 10: J for Japanese Taiko
+Letter 11: K for Kalimba
+Letter 12: L for Lithophone
+Letter 13: M for Mbira
+Letter 14: N for Nigerian Drum
+Letter 15: O for Opera Drum
+Letter 16: P for Pandeiro
+Letter 17: R for Repinique
+Letter 18: U for Udu Drum
+Letter 19: V for Vibra Drum
+Letter 20: W for Wind Chime
+Letter 21: E for Ektaal
+Letter 22: X for Xylorimba
+Letter 23: Y for Yuka Drum
+Letter 24: Z for Zabumba
+Letter 25: Q for Quinto
+Letter 26: T for Timpani
+Letter 27: S for Shaker
+Letter 28: B for Bell Tree
+Letter 29: C for Crash Cymbal
+
+PLAIN TEXT:
+S for Surdo
+T for Talking Drum
+A for Ashiko
+B for Berimbau
+C for Cuica
+D for Dundun
+F for Finger Cymbal
+G for Ganza
+H for Hang Drum
+I for Indian Ghatam
+J for Japanese Taiko
+K for Kalimba
+L for Lithophone
+M for Mbira
+N for Nigerian Drum
+O for Opera Drum
+P for Pandeiro
+R for Repinique
+U for Udu Drum
+V for Vibra Drum
+W for Wind Chime
+E for Ektaal
+X for Xylorimba
+Y for Yuka Drum
+Z for Zabumba
+Q for Quinto
+T for Timpani
+S for Shaker
+B for Bell Tree
+C for Crash Cymbal
+
+
+----------------------------------------------------------------------
+#10. Keyboard Instruments - Part 1 (instruments-keyboard-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/instruments-keyboard-1-audio/
+
+Letter 0: P for Piano
+Letter 1: H for Harmonium
+Letter 2: O for Organ
+Letter 3: K for Keyboard
+Letter 4: A for Accordion
+Letter 5: S for Synthesizer
+Letter 6: C for Celesta
+Letter 7: M for Melodica
+Letter 8: H for Harpsichord
+Letter 9: C for Clavichord
+Letter 10: E for Electric Piano
+Letter 11: G for Grand Piano
+Letter 12: B for Baby Grand
+Letter 13: D for Digital Piano
+Letter 14: F for Fortepiano
+Letter 15: L for Lap Organ
+Letter 16: N for Nord Keyboard
+Letter 17: R for Rhodes Piano
+Letter 18: T for Toy Piano
+Letter 19: U for Upright Piano
+Letter 20: V for Virginal
+Letter 21: W for Wurlitzer
+Letter 22: I for Indian Harmonium
+Letter 23: J for Janko Keyboard
+Letter 24: X for Xaphoon Keys
+Letter 25: Y for Yamaha Piano
+Letter 26: Z for Zen Keyboard
+Letter 27: Q for Quarter Tone
+Letter 28: S for Spinet
+Letter 29: A for Auto Piano
+
+PLAIN TEXT:
+P for Piano
+H for Harmonium
+O for Organ
+K for Keyboard
+A for Accordion
+S for Synthesizer
+C for Celesta
+M for Melodica
+H for Harpsichord
+C for Clavichord
+E for Electric Piano
+G for Grand Piano
+B for Baby Grand
+D for Digital Piano
+F for Fortepiano
+L for Lap Organ
+N for Nord Keyboard
+R for Rhodes Piano
+T for Toy Piano
+U for Upright Piano
+V for Virginal
+W for Wurlitzer
+I for Indian Harmonium
+J for Janko Keyboard
+X for Xaphoon Keys
+Y for Yamaha Piano
+Z for Zen Keyboard
+Q for Quarter Tone
+S for Spinet
+A for Auto Piano
+
