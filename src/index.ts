@@ -9,14 +9,12 @@ import { InsectRemotionRoot } from "./InsectRoot";
 import { DinosaurRemotionRoot } from "./DinosaurRoot";
 import { InstrumentRemotionRoot } from "./InstrumentRoot";
 import { VehicleRemotionRoot } from "./VehicleRoot";
+import { CountryRemotionRoot } from "./CountryRoot";
+import { SportRemotionRoot } from "./SportRoot";
 import React from "react";
 
-// Phase 1: Animals (30) + Birds (20) = 50
-// Phase 2: Birds (10) + Fruits (30) + Vegetables (10) = 50
-// Phase 3: Vegetables (20) + Flowers (30) = 50
-// Phase 4: Sea Creatures (30) + Insects (20) = 50
-// Phase 5: Insects (10) + Dinosaurs (30) + Instruments (10) = 50
-// Phase 6: Instruments (20) + Vehicles (30) = 50
+// Phase 1-6: 300 videos
+// Phase 7: Countries (30) + Sports (20) = 50
 const CombinedRoot: React.FC = () => {
   return React.createElement(React.Fragment, null,
     React.createElement(AnimalRemotionRoot),
@@ -28,7 +26,9 @@ const CombinedRoot: React.FC = () => {
     React.createElement(InsectRemotionRoot),
     React.createElement(DinosaurRemotionRoot),
     React.createElement(InstrumentRemotionRoot),
-    React.createElement(VehicleRemotionRoot)
+    React.createElement(VehicleRemotionRoot),
+    React.createElement(CountryRemotionRoot),
+    React.createElement(SportRemotionRoot)
   );
 };
 

@@ -1,0 +1,3882 @@
+[
+  {
+    "id": "sports-indian-sports-1",
+    "title": "Indian Sports - Part 1",
+    "bgGradient": [
+      "#FF6F00",
+      "#FFE0B2"
+    ],
+    "accentColor": "#E65100",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🏏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kabaddi",
+        "emoji": "🤼",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Hockey",
+        "emoji": "🏑",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Badminton",
+        "emoji": "🏸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "A",
+        "word": "Archery",
+        "emoji": "🏹",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "S",
+        "word": "Shooting",
+        "emoji": "🎯",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "G",
+        "word": "Gilli Danda",
+        "emoji": "🏏",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "K",
+        "word": "Kho Kho",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "M",
+        "word": "Mallakhamb",
+        "emoji": "🤸",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "L",
+        "word": "Lagori",
+        "emoji": "🏃",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Tennis",
+        "emoji": "🎾",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "F",
+        "word": "Football",
+        "emoji": "⚽",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "V",
+        "word": "Volleyball",
+        "emoji": "🏐",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Chess",
+        "emoji": "♟️",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Javelin",
+        "emoji": "🏃",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "P",
+        "word": "Polo",
+        "emoji": "🏇",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Running",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Swimming",
+        "emoji": "🏊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "Y",
+        "word": "Yoga",
+        "emoji": "🧘",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "N",
+        "word": "Netball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🏃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Skating",
+        "emoji": "⛸️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "E",
+        "word": "Equestrian",
+        "emoji": "🏇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "U",
+        "word": "Ultimate Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "X",
+        "word": "Xtreme Sport",
+        "emoji": "🤸",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Walk",
+        "emoji": "🚶",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "Z",
+        "word": "Zorb Ball",
+        "emoji": "⚽",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Q",
+        "word": "Quidditch",
+        "emoji": "🏃",
+        "bgColor": "#6A1B9A"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-indian-sports-2",
+    "title": "Indian Sports - Part 2",
+    "bgGradient": [
+      "#FF8F00",
+      "#FFF3E0"
+    ],
+    "accentColor": "#FF6F00",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Carrom",
+        "emoji": "🎯",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Snooker",
+        "emoji": "🎱",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "T",
+        "word": "Table Tennis",
+        "emoji": "🏓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Athletics",
+        "emoji": "🏃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "R",
+        "word": "Rowing",
+        "emoji": "🚣",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "W",
+        "word": "Weightlifting",
+        "emoji": "🏋️",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "G",
+        "word": "Gymnastics",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diving",
+        "emoji": "🤿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cycling",
+        "emoji": "🚴",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "M",
+        "word": "Marathon",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Basketball",
+        "emoji": "🏀",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "H",
+        "word": "Handball",
+        "emoji": "🤾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "P",
+        "word": "Powerlifting",
+        "emoji": "🏋️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "L",
+        "word": "Long Jump",
+        "emoji": "🏃",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "N",
+        "word": "Netball",
+        "emoji": "🏐",
+        "bgColor": "#AD1457"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Rowing",
+        "emoji": "🚣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "E",
+        "word": "Endurance Run",
+        "emoji": "🏃",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "V",
+        "word": "Volleyball Indoor",
+        "emoji": "🏐",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "Obstacle Race",
+        "emoji": "🏃",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "U",
+        "word": "Underwater Sport",
+        "emoji": "🤿",
+        "bgColor": "#01579B"
+      },
+      {
+        "letter": "X",
+        "word": "X-Country Run",
+        "emoji": "🏃",
+        "bgColor": "#689F38"
+      },
+      {
+        "letter": "Y",
+        "word": "Yachting",
+        "emoji": "⛵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zen Archery",
+        "emoji": "🏹",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Cricket",
+        "emoji": "🏏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "S",
+        "word": "Shot Put",
+        "emoji": "🏃",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "R",
+        "word": "Relay Race",
+        "emoji": "🏃",
+        "bgColor": "#C62828"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-indian-sports-3",
+    "title": "Indian Sports - Part 3",
+    "bgGradient": [
+      "#FFA000",
+      "#FFECB3"
+    ],
+    "accentColor": "#FF8F00",
+    "items": [
+      {
+        "letter": "P",
+        "word": "Pehlwani",
+        "emoji": "🤼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silambam",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kushti",
+        "emoji": "🤼",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "G",
+        "word": "Gatka",
+        "emoji": "🥋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Thang Ta",
+        "emoji": "🥋",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "V",
+        "word": "Vallam Kali",
+        "emoji": "🚣",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "B",
+        "word": "Bull Racing",
+        "emoji": "🐂",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "C",
+        "word": "Camel Racing",
+        "emoji": "🐫",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "J",
+        "word": "Jallikattu",
+        "emoji": "🐂",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Martial Arts",
+        "emoji": "🥋",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "A",
+        "word": "Atya Patya",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dhopkhel",
+        "emoji": "🏃",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "Horse Polo",
+        "emoji": "🏇",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Langdi",
+        "emoji": "🏃",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "R",
+        "word": "Roti Making Race",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "N",
+        "word": "Naga Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Archery",
+        "emoji": "🏹",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "F",
+        "word": "Flying Disc",
+        "emoji": "🥏",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "W",
+        "word": "Water Polo",
+        "emoji": "🤽",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "E",
+        "word": "Elephant Polo",
+        "emoji": "🏇",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "O",
+        "word": "Oil Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "U",
+        "word": "Umpiring",
+        "emoji": "🏏",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "X",
+        "word": "X-Sport",
+        "emoji": "🤸",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "Y",
+        "word": "Yogasana Sport",
+        "emoji": "🧘",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "Z",
+        "word": "Zipline Race",
+        "emoji": "🏃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Race",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sqay",
+        "emoji": "🥋",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "T",
+        "word": "Tug of War",
+        "emoji": "🏃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "K",
+        "word": "Kite Flying",
+        "emoji": "🪁",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cycle Polo",
+        "emoji": "🚴",
+        "bgColor": "#FF6F00"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-ball-sports-1",
+    "title": "Ball Sports - Part 1",
+    "bgGradient": [
+      "#D32F2F",
+      "#FFCDD2"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "C",
+        "word": "Cricket",
+        "emoji": "🏏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Football",
+        "emoji": "⚽",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "B",
+        "word": "Basketball",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Tennis",
+        "emoji": "🎾",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "V",
+        "word": "Volleyball",
+        "emoji": "🏐",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "G",
+        "word": "Golf",
+        "emoji": "⛳",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "R",
+        "word": "Rugby",
+        "emoji": "🏉",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Baseball",
+        "emoji": "⚾",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Soccer",
+        "emoji": "⚽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "Handball",
+        "emoji": "🤾",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "P",
+        "word": "Polo",
+        "emoji": "🏇",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "W",
+        "word": "Water Polo",
+        "emoji": "🤽",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Netball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Dodgeball",
+        "emoji": "🏐",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kickball",
+        "emoji": "⚽",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "S",
+        "word": "Softball",
+        "emoji": "🥎",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "L",
+        "word": "Lacrosse",
+        "emoji": "🥍",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "A",
+        "word": "Australian Football",
+        "emoji": "🏈",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "M",
+        "word": "Mini Football",
+        "emoji": "⚽",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "I",
+        "word": "Indoor Cricket",
+        "emoji": "🏏",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "E",
+        "word": "Eight Ball",
+        "emoji": "🎱",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Football",
+        "emoji": "⚽",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "J",
+        "word": "Jai Alai",
+        "emoji": "🏐",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "U",
+        "word": "Ultimate Frisbee",
+        "emoji": "🥏",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "C",
+        "word": "Croquet",
+        "emoji": "🏑",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "T-Ball",
+        "emoji": "⚾",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "X",
+        "word": "X-Sport Ball",
+        "emoji": "⚽",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "Y",
+        "word": "Youth Cricket",
+        "emoji": "🏏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Z",
+        "word": "Zorb Football",
+        "emoji": "⚽",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Ball",
+        "emoji": "⚽",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-ball-sports-2",
+    "title": "Ball Sports - Part 2",
+    "bgGradient": [
+      "#C62828",
+      "#EF9A9A"
+    ],
+    "accentColor": "#B71C1C",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🏸",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "P",
+        "word": "Ping Pong",
+        "emoji": "🏓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Billiards",
+        "emoji": "🎱",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket T20",
+        "emoji": "🏏",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Futsal",
+        "emoji": "⚽",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "H",
+        "word": "Hockey Ball",
+        "emoji": "🏑",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "R",
+        "word": "Racquetball",
+        "emoji": "🏸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tennikoit",
+        "emoji": "🏐",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "M",
+        "word": "Medicine Ball",
+        "emoji": "⚽",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Disc Golf",
+        "emoji": "🥏",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "G",
+        "word": "Gaelic Football",
+        "emoji": "🏈",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kabaddi Ball",
+        "emoji": "🏐",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Bowling",
+        "emoji": "⚽",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "N",
+        "word": "Nine Ball",
+        "emoji": "🎱",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "A",
+        "word": "Arm Ball",
+        "emoji": "🏏",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "W",
+        "word": "Wiffle Ball",
+        "emoji": "⚾",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "V",
+        "word": "Volleyball Beach",
+        "emoji": "🏐",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Tennis",
+        "emoji": "🎾",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "I",
+        "word": "Indoor Football",
+        "emoji": "⚽",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "J",
+        "word": "Junior Cricket",
+        "emoji": "🏏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "E",
+        "word": "English Cricket",
+        "emoji": "🏏",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "U",
+        "word": "Underwater Ball",
+        "emoji": "🏐",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "X",
+        "word": "Xtreme Golf",
+        "emoji": "⛳",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "Y",
+        "word": "Youth Basketball",
+        "emoji": "🏀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zen Bowling",
+        "emoji": "🎳",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Tennis",
+        "emoji": "🎾",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "S",
+        "word": "Sepak Takraw",
+        "emoji": "⚽",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "C",
+        "word": "Corner Ball",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bocce Ball",
+        "emoji": "⚽",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "T",
+        "word": "Throwball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-ball-sports-3",
+    "title": "Ball Sports - Part 3",
+    "bgGradient": [
+      "#E53935",
+      "#FFEBEE"
+    ],
+    "accentColor": "#C62828",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Bowling",
+        "emoji": "🎳",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "C",
+        "word": "Cricket ODI",
+        "emoji": "🏏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Field Hockey",
+        "emoji": "🏑",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "G",
+        "word": "Goalball",
+        "emoji": "🏐",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "H",
+        "word": "Hurling",
+        "emoji": "🏑",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "K",
+        "word": "Korfball",
+        "emoji": "🏐",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Tennis",
+        "emoji": "🎾",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "M",
+        "word": "Marbles",
+        "emoji": "🔮",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "N",
+        "word": "Net Ball",
+        "emoji": "🏐",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "P",
+        "word": "Paddle Ball",
+        "emoji": "🏸",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rounders",
+        "emoji": "⚾",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Snooker",
+        "emoji": "🎱",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "T",
+        "word": "Test Cricket",
+        "emoji": "🏏",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "V",
+        "word": "Valencian Pilota",
+        "emoji": "🏐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "W",
+        "word": "Wall Ball",
+        "emoji": "⚽",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "A",
+        "word": "Air Hockey",
+        "emoji": "🏒",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dart Ball",
+        "emoji": "🎯",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "E",
+        "word": "Euro Football",
+        "emoji": "⚽",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "IPL Cricket",
+        "emoji": "🏏",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "J",
+        "word": "Junior Football",
+        "emoji": "⚽",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Hockey",
+        "emoji": "🏑",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "U",
+        "word": "Under Arm Ball",
+        "emoji": "🏏",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "X",
+        "word": "X-Ball",
+        "emoji": "⚽",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Youth Football",
+        "emoji": "⚽",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "Z",
+        "word": "Zen Golf",
+        "emoji": "⛳",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Hockey",
+        "emoji": "🏑",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Cricket",
+        "emoji": "🏏",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "C",
+        "word": "Club Football",
+        "emoji": "⚽",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "S",
+        "word": "Street Cricket",
+        "emoji": "🏏",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Teqball",
+        "emoji": "⚽",
+        "bgColor": "#FF5722"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-water-sports-1",
+    "title": "Water Sports - Part 1",
+    "bgGradient": [
+      "#0277BD",
+      "#B3E5FC"
+    ],
+    "accentColor": "#01579B",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Swimming",
+        "emoji": "🏊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Surfing",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Diving",
+        "emoji": "🤿",
+        "bgColor": "#01579B"
+      },
+      {
+        "letter": "W",
+        "word": "Water Polo",
+        "emoji": "🤽",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "K",
+        "word": "Kayaking",
+        "emoji": "🛶",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "C",
+        "word": "Canoeing",
+        "emoji": "🛶",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "R",
+        "word": "Rowing",
+        "emoji": "🚣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "S",
+        "word": "Sailing",
+        "emoji": "⛵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "J",
+        "word": "Jet Skiing",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wakeboarding",
+        "emoji": "🏄",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "S",
+        "word": "Scuba Diving",
+        "emoji": "🤿",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "S",
+        "word": "Snorkeling",
+        "emoji": "🤿",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "P",
+        "word": "Parasailing",
+        "emoji": "🪂",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fishing",
+        "emoji": "🎣",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "W",
+        "word": "Windsurfing",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "Rafting",
+        "emoji": "🛶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Boat Racing",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "Aqua Aerobics",
+        "emoji": "🏊",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Triathlon Swim",
+        "emoji": "🏊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Motor Boating",
+        "emoji": "🚤",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "K",
+        "word": "Kitesurfing",
+        "emoji": "🏄",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "P",
+        "word": "Paddleboarding",
+        "emoji": "🏄",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "N",
+        "word": "Naval Swimming",
+        "emoji": "🏊",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "H",
+        "word": "Hydrofoiling",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Dragon Boating",
+        "emoji": "🛶",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Long Distance Swim",
+        "emoji": "🏊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "E",
+        "word": "Endurance Swim",
+        "emoji": "🏊",
+        "bgColor": "#01579B"
+      },
+      {
+        "letter": "O",
+        "word": "Open Water Swim",
+        "emoji": "🏊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "I",
+        "word": "Island Kayaking",
+        "emoji": "🛶",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "G",
+        "word": "Gondola Racing",
+        "emoji": "🛶",
+        "bgColor": "#607D8B"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-water-sports-2",
+    "title": "Water Sports - Part 2",
+    "bgGradient": [
+      "#0288D1",
+      "#81D4FA"
+    ],
+    "accentColor": "#0277BD",
+    "items": [
+      {
+        "letter": "F",
+        "word": "Flyboarding",
+        "emoji": "🏄",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "C",
+        "word": "Cliff Diving",
+        "emoji": "🤿",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "White Water",
+        "emoji": "🛶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Synchronized Swim",
+        "emoji": "🏊",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "U",
+        "word": "Underwater Hockey",
+        "emoji": "🤿",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "A",
+        "word": "Aquathlon",
+        "emoji": "🏊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Polo Water",
+        "emoji": "🤽",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tubing",
+        "emoji": "🛶",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "B",
+        "word": "Body Surfing",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "R",
+        "word": "River Kayaking",
+        "emoji": "🛶",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "K",
+        "word": "Kneeboarding",
+        "emoji": "🏄",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "M",
+        "word": "Mono Skiing",
+        "emoji": "🎿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "D",
+        "word": "Deck Diving",
+        "emoji": "🤿",
+        "bgColor": "#01579B"
+      },
+      {
+        "letter": "N",
+        "word": "Night Diving",
+        "emoji": "🤿",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "J",
+        "word": "Jet Boat",
+        "emoji": "🚤",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "L",
+        "word": "Lake Swimming",
+        "emoji": "🏊",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "G",
+        "word": "Glacier Swim",
+        "emoji": "🏊",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "H",
+        "word": "Hydro Speed",
+        "emoji": "🏄",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "O",
+        "word": "Ocean Rowing",
+        "emoji": "🚣",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "V",
+        "word": "Volleyball Beach",
+        "emoji": "🏐",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "I",
+        "word": "Indoor Swimming",
+        "emoji": "🏊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "E",
+        "word": "Extreme Kayaking",
+        "emoji": "🛶",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "X",
+        "word": "X-Water Sport",
+        "emoji": "🏊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "Y",
+        "word": "Yacht Racing",
+        "emoji": "⛵",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zipline Water",
+        "emoji": "🏃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Swim",
+        "emoji": "🏊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "S",
+        "word": "Skimboarding",
+        "emoji": "🏄",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "C",
+        "word": "Canoe Polo",
+        "emoji": "🛶",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "W",
+        "word": "Water Skiing",
+        "emoji": "🎿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "R",
+        "word": "River Surfing",
+        "emoji": "🏄",
+        "bgColor": "#33691E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-winter-sports-1",
+    "title": "Winter Sports - Part 1",
+    "bgGradient": [
+      "#1565C0",
+      "#BBDEFB"
+    ],
+    "accentColor": "#0D47A1",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboarding",
+        "emoji": "🏂",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Skating",
+        "emoji": "⛸️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Hockey",
+        "emoji": "🏒",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "C",
+        "word": "Curling",
+        "emoji": "🥌",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "B",
+        "word": "Bobsled",
+        "emoji": "🛷",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "L",
+        "word": "Luge",
+        "emoji": "🛷",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Skeleton",
+        "emoji": "🛷",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "F",
+        "word": "Figure Skating",
+        "emoji": "⛸️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Speed Skating",
+        "emoji": "⛸️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "C",
+        "word": "Cross Country Ski",
+        "emoji": "⛷️",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "B",
+        "word": "Biathlon",
+        "emoji": "⛷️",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "S",
+        "word": "Ski Jumping",
+        "emoji": "⛷️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "A",
+        "word": "Alpine Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "N",
+        "word": "Nordic Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "F",
+        "word": "Freestyle Ski",
+        "emoji": "⛷️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "Half Pipe",
+        "emoji": "🏂",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "S",
+        "word": "Slopestyle",
+        "emoji": "🏂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Tobogganing",
+        "emoji": "🛷",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Downhill Ski",
+        "emoji": "⛷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Climbing",
+        "emoji": "🧗",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Para Ice Hockey",
+        "emoji": "🏒",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "G",
+        "word": "Giant Slalom",
+        "emoji": "⛷️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "M",
+        "word": "Mogul Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Relay Skating",
+        "emoji": "⛸️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "K",
+        "word": "Kicksled",
+        "emoji": "🛷",
+        "bgColor": "#8D6E63"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Skating",
+        "emoji": "⛸️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "W",
+        "word": "Winter Triathlon",
+        "emoji": "⛷️",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "E",
+        "word": "Endurance Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "J",
+        "word": "Junior Skating",
+        "emoji": "⛸️",
+        "bgColor": "#42A5F5"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-winter-sports-2",
+    "title": "Winter Sports - Part 2",
+    "bgGradient": [
+      "#1976D2",
+      "#90CAF9"
+    ],
+    "accentColor": "#1565C0",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Snowshoeing",
+        "emoji": "🏔️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Sailing",
+        "emoji": "⛵",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "D",
+        "word": "Dog Sledding",
+        "emoji": "🛷",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Tubing",
+        "emoji": "🛷",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Fishing",
+        "emoji": "🎣",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "B",
+        "word": "Broomball",
+        "emoji": "🏒",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "R",
+        "word": "Ringette",
+        "emoji": "🏒",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Snow Polo",
+        "emoji": "🏇",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "C",
+        "word": "Cresta Run",
+        "emoji": "🛷",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "F",
+        "word": "Freestyle Board",
+        "emoji": "🏂",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "P",
+        "word": "Parallel Giant",
+        "emoji": "⛷️",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "T",
+        "word": "Telemark Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "A",
+        "word": "Arctic Marathon",
+        "emoji": "🏃",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "N",
+        "word": "Night Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "H",
+        "word": "Heli Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Glacier Boarding",
+        "emoji": "🏂",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "K",
+        "word": "Kite Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "L",
+        "word": "Long Track",
+        "emoji": "⛸️",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "M",
+        "word": "Mixed Relay",
+        "emoji": "⛷️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "O",
+        "word": "Off Piste",
+        "emoji": "⛷️",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Winter Pentathlon",
+        "emoji": "⛷️",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "U",
+        "word": "Ultra Marathon Ice",
+        "emoji": "🏃",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "V",
+        "word": "Vertical Climb",
+        "emoji": "🧗",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "E",
+        "word": "Extreme Board",
+        "emoji": "🏂",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "J",
+        "word": "Junior Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "X",
+        "word": "X-Country Board",
+        "emoji": "🏂",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "Y",
+        "word": "Youth Skating",
+        "emoji": "⛸️",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "Z",
+        "word": "Zen Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Slalom",
+        "emoji": "⛷️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Super G",
+        "emoji": "⛷️",
+        "bgColor": "#FF5722"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-combat-sports-1",
+    "title": "Combat Sports - Part 1",
+    "bgGradient": [
+      "#37474F",
+      "#90A4AE"
+    ],
+    "accentColor": "#263238",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "M",
+        "word": "MMA",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kung Fu",
+        "emoji": "🥋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "S",
+        "word": "Sumo",
+        "emoji": "🤼",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "A",
+        "word": "Aikido",
+        "emoji": "🥋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "K",
+        "word": "Kickboxing",
+        "emoji": "🥊",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "M",
+        "word": "Muay Thai",
+        "emoji": "🥊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "J",
+        "word": "Jiu Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "C",
+        "word": "Capoeira",
+        "emoji": "🥋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "K",
+        "word": "Krav Maga",
+        "emoji": "🥋",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "W",
+        "word": "Wing Chun",
+        "emoji": "🥋",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tai Chi",
+        "emoji": "🥋",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "S",
+        "word": "Sambo",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hapkido",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "Ninjutsu",
+        "emoji": "🥋",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "L",
+        "word": "Lethwei",
+        "emoji": "🥊",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "P",
+        "word": "Pankration",
+        "emoji": "🤼",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "G",
+        "word": "Gatka",
+        "emoji": "🥋",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "K",
+        "word": "Kushti",
+        "emoji": "🤼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Silambam",
+        "emoji": "🥋",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "D",
+        "word": "Dambe",
+        "emoji": "🥊",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "I",
+        "word": "Indian Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#E65100"
+      },
+      {
+        "letter": "R",
+        "word": "Ring Fight",
+        "emoji": "🥊",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "E",
+        "word": "Escrima",
+        "emoji": "🥋",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-combat-sports-2",
+    "title": "Combat Sports - Part 2",
+    "bgGradient": [
+      "#455A64",
+      "#B0BEC5"
+    ],
+    "accentColor": "#37474F",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Savate",
+        "emoji": "🥊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Tang Soo Do",
+        "emoji": "🥋",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wushu",
+        "emoji": "🥋",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "K",
+        "word": "Kendo",
+        "emoji": "🥋",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "I",
+        "word": "Iaido",
+        "emoji": "🥋",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "B",
+        "word": "Brazilian Jiu Jitsu",
+        "emoji": "🥋",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "C",
+        "word": "Combat Sambo",
+        "emoji": "🥋",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "P",
+        "word": "Pencak Silat",
+        "emoji": "🥋",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "L",
+        "word": "Luta Livre",
+        "emoji": "🥋",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "M",
+        "word": "Malla Yuddha",
+        "emoji": "🤼",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "G",
+        "word": "Greco Roman",
+        "emoji": "🤼",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "F",
+        "word": "Freestyle Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "A",
+        "word": "Amateur Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "N",
+        "word": "Naban",
+        "emoji": "🤼",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "R",
+        "word": "Russian Sambo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "D",
+        "word": "Dutch Kickboxing",
+        "emoji": "🥊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hwa Rang Do",
+        "emoji": "🥋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Judo",
+        "emoji": "🥋",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "J",
+        "word": "Jousting",
+        "emoji": "🏇",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "V",
+        "word": "Vale Tudo",
+        "emoji": "🥊",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "E",
+        "word": "Egyptian Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "U",
+        "word": "UFC Style",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "X",
+        "word": "Xtreme Fighting",
+        "emoji": "🥊",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "Y",
+        "word": "Youth Boxing",
+        "emoji": "🥊",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "Z",
+        "word": "Zen Martial Art",
+        "emoji": "🥋",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Punch",
+        "emoji": "🥊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Sanda",
+        "emoji": "🥊",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "T",
+        "word": "Thaiboxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "K",
+        "word": "Kalari",
+        "emoji": "🥋",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "M",
+        "word": "Modern Fencing",
+        "emoji": "🤺",
+        "bgColor": "#455A64"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-track-field-1",
+    "title": "Track & Field - Part 1",
+    "bgGradient": [
+      "#2E7D32",
+      "#A5D6A7"
+    ],
+    "accentColor": "#1B5E20",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Sprinting",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Marathon",
+        "emoji": "🏃",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "H",
+        "word": "High Jump",
+        "emoji": "🏃",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "L",
+        "word": "Long Jump",
+        "emoji": "🏃",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Triple Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Pole Vault",
+        "emoji": "🏃",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "J",
+        "word": "Javelin Throw",
+        "emoji": "🏃",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "D",
+        "word": "Discus Throw",
+        "emoji": "🏃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shot Put",
+        "emoji": "🏃",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer Throw",
+        "emoji": "🏃",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "R",
+        "word": "Relay Race",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "H",
+        "word": "Hurdles",
+        "emoji": "🏃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "D",
+        "word": "Decathlon",
+        "emoji": "🏃",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "S",
+        "word": "Steeplechase",
+        "emoji": "🏃",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "R",
+        "word": "Race Walking",
+        "emoji": "🚶",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "C",
+        "word": "Cross Country",
+        "emoji": "🏃",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "L",
+        "word": "Long Distance",
+        "emoji": "🏃",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "M",
+        "word": "Middle Distance",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "S",
+        "word": "Short Sprint",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "P",
+        "word": "Pentathlon",
+        "emoji": "🏃",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "A",
+        "word": "Athletics",
+        "emoji": "🏃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "T",
+        "word": "Track Running",
+        "emoji": "🏃",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "F",
+        "word": "Field Events",
+        "emoji": "🏃",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "K",
+        "word": "Kilometer Race",
+        "emoji": "🏃",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "E",
+        "word": "Endurance Run",
+        "emoji": "🏃",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Sprint",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Indoor Track",
+        "emoji": "🏃",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "N",
+        "word": "Night Marathon",
+        "emoji": "🏃",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "W",
+        "word": "Walking Race",
+        "emoji": "🚶",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "B",
+        "word": "Barrier Race",
+        "emoji": "🏃",
+        "bgColor": "#FF9800"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-track-field-2",
+    "title": "Track & Field - Part 2",
+    "bgGradient": [
+      "#388E3C",
+      "#C8E6C9"
+    ],
+    "accentColor": "#2E7D32",
+    "items": [
+      {
+        "letter": "H",
+        "word": "Heptathlon",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "R",
+        "word": "Running",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "400m Dash",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "200m Sprint",
+        "emoji": "🏃",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "S",
+        "word": "100m Dash",
+        "emoji": "🏃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "L",
+        "word": "110m Hurdles",
+        "emoji": "🏃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "M",
+        "word": "800m Run",
+        "emoji": "🏃",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "1500m Run",
+        "emoji": "🏃",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "K",
+        "word": "5000m Run",
+        "emoji": "🏃",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "P",
+        "word": "10000m Run",
+        "emoji": "🏃",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "C",
+        "word": "4x100m Relay",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "A",
+        "word": "4x400m Relay",
+        "emoji": "🏃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "J",
+        "word": "Javelin Olympic",
+        "emoji": "🏃",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "V",
+        "word": "Vault Jump",
+        "emoji": "🏃",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "W",
+        "word": "Weight Throw",
+        "emoji": "🏃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Gigantor Race",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Broad Jump",
+        "emoji": "🏃",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "N",
+        "word": "Nordic Walk",
+        "emoji": "🚶",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "E",
+        "word": "Elite Sprint",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "I",
+        "word": "Indoor Sprint",
+        "emoji": "🏃",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Hurdles",
+        "emoji": "🏃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "U",
+        "word": "Ultra Marathon",
+        "emoji": "🏃",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "X",
+        "word": "X-Country Race",
+        "emoji": "🏃",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "Y",
+        "word": "Youth Sprint",
+        "emoji": "🏃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zone Run",
+        "emoji": "🏃",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "Q",
+        "word": "Quarter Mile",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Sprint Relay",
+        "emoji": "🏃",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "T",
+        "word": "Track Cycling",
+        "emoji": "🚴",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "H",
+        "word": "Half Marathon",
+        "emoji": "🏃",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Road Race",
+        "emoji": "🏃",
+        "bgColor": "#33691E"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-racket-sports-1",
+    "title": "Racket Sports - Part 1",
+    "bgGradient": [
+      "#6A1B9A",
+      "#E1BEE7"
+    ],
+    "accentColor": "#4A148C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Tennis",
+        "emoji": "🎾",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "B",
+        "word": "Badminton",
+        "emoji": "🏸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Table Tennis",
+        "emoji": "🏓",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Squash",
+        "emoji": "🏸",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "R",
+        "word": "Racquetball",
+        "emoji": "🏸",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Padel Tennis",
+        "emoji": "🎾",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "P",
+        "word": "Pickleball",
+        "emoji": "🏓",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "C",
+        "word": "Court Tennis",
+        "emoji": "🎾",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Lawn Tennis",
+        "emoji": "🎾",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "S",
+        "word": "Soft Tennis",
+        "emoji": "🎾",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Tennis",
+        "emoji": "🎾",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Platform Tennis",
+        "emoji": "🎾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "T",
+        "word": "Tennikoit",
+        "emoji": "🏐",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "F",
+        "word": "Frontenis",
+        "emoji": "🎾",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "J",
+        "word": "Jai Alai",
+        "emoji": "🏸",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "S",
+        "word": "Speed Badminton",
+        "emoji": "🏸",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "X",
+        "word": "Xare",
+        "emoji": "🏸",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "M",
+        "word": "Mini Tennis",
+        "emoji": "🎾",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "K",
+        "word": "Kids Tennis",
+        "emoji": "🎾",
+        "bgColor": "#FFEB3B"
+      },
+      {
+        "letter": "A",
+        "word": "Australian Tennis",
+        "emoji": "🎾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Doubles Tennis",
+        "emoji": "🎾",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "G",
+        "word": "Grand Slam",
+        "emoji": "🎾",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Court",
+        "emoji": "🎾",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "I",
+        "word": "Indoor Tennis",
+        "emoji": "🎾",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "N",
+        "word": "Net Game",
+        "emoji": "🎾",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "O",
+        "word": "Olympic Tennis",
+        "emoji": "🎾",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Wimbledon Style",
+        "emoji": "🎾",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "E",
+        "word": "Elite Badminton",
+        "emoji": "🏸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "V",
+        "word": "Volleyball Racket",
+        "emoji": "🏐",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "U",
+        "word": "Ultimate Table Tennis",
+        "emoji": "🏓",
+        "bgColor": "#7C4DFF"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-racket-sports-2",
+    "title": "Racket Sports - Part 2",
+    "bgGradient": [
+      "#7B1FA2",
+      "#CE93D8"
+    ],
+    "accentColor": "#6A1B9A",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Shuttle Badminton",
+        "emoji": "🏸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "TT Pro",
+        "emoji": "🏓",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "R",
+        "word": "Real Tennis",
+        "emoji": "🎾",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "C",
+        "word": "Clay Court Tennis",
+        "emoji": "🎾",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "G",
+        "word": "Grass Court",
+        "emoji": "🎾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Badminton",
+        "emoji": "🏸",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "P",
+        "word": "Para Table Tennis",
+        "emoji": "🏓",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "L",
+        "word": "Long Tennis",
+        "emoji": "🎾",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "M",
+        "word": "Mixed Doubles",
+        "emoji": "🎾",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Drop Shot",
+        "emoji": "🏸",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "K",
+        "word": "Kool Pong",
+        "emoji": "🏓",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "A",
+        "word": "Ace Tennis",
+        "emoji": "🎾",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "F",
+        "word": "Fast Badminton",
+        "emoji": "🏸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "H",
+        "word": "Hard Smash",
+        "emoji": "🏸",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "N",
+        "word": "Night Tennis",
+        "emoji": "🎾",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "I",
+        "word": "Indoor Badminton",
+        "emoji": "🏸",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "O",
+        "word": "Open Tennis",
+        "emoji": "🎾",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "J",
+        "word": "Junior Badminton",
+        "emoji": "🏸",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "W",
+        "word": "Women's Tennis",
+        "emoji": "🎾",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "E",
+        "word": "Exhibition Match",
+        "emoji": "🎾",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "V",
+        "word": "Veteran Tennis",
+        "emoji": "🎾",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "U",
+        "word": "Under 19 TT",
+        "emoji": "🏓",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "X",
+        "word": "X-Racket Sport",
+        "emoji": "🏸",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "Y",
+        "word": "Youth Badminton",
+        "emoji": "🏸",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "Z",
+        "word": "Zen Squash",
+        "emoji": "🏸",
+        "bgColor": "#00897B"
+      },
+      {
+        "letter": "Q",
+        "word": "Quick Pong",
+        "emoji": "🏓",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Smash Point",
+        "emoji": "🏸",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "T",
+        "word": "Tournament Tennis",
+        "emoji": "🎾",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "B",
+        "word": "Backhand Rally",
+        "emoji": "🎾",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "P",
+        "word": "Power Smash",
+        "emoji": "🏸",
+        "bgColor": "#FF5722"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-extreme-sports-1",
+    "title": "Extreme Sports - Part 1",
+    "bgGradient": [
+      "#BF360C",
+      "#FFAB91"
+    ],
+    "accentColor": "#D84315",
+    "items": [
+      {
+        "letter": "S",
+        "word": "Skydiving",
+        "emoji": "🪂",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Bungee Jumping",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "R",
+        "word": "Rock Climbing",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboarding",
+        "emoji": "🛹",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "P",
+        "word": "Parkour",
+        "emoji": "🏃",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "S",
+        "word": "Surfing Big Wave",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "M",
+        "word": "Motocross",
+        "emoji": "🏍️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "BMX Racing",
+        "emoji": "🚴",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "W",
+        "word": "Wingsuit Flying",
+        "emoji": "🪂",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "K",
+        "word": "Kiteboarding",
+        "emoji": "🏄",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "C",
+        "word": "Cliff Jumping",
+        "emoji": "🏊",
+        "bgColor": "#0D47A1"
+      },
+      {
+        "letter": "R",
+        "word": "Rally Racing",
+        "emoji": "🏎️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Snowboarding Extreme",
+        "emoji": "🏂",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "Z",
+        "word": "Zipline",
+        "emoji": "🏃",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "A",
+        "word": "Abseiling",
+        "emoji": "🧗",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "F",
+        "word": "Free Running",
+        "emoji": "🏃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "H",
+        "word": "Hang Gliding",
+        "emoji": "🪂",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "P",
+        "word": "Paragliding",
+        "emoji": "🪂",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trail Running",
+        "emoji": "🏃",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "D",
+        "word": "Downhill MTB",
+        "emoji": "🚴",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "L",
+        "word": "Land Sailing",
+        "emoji": "⛵",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "G",
+        "word": "Glacier Climbing",
+        "emoji": "🧗",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "I",
+        "word": "Ice Climbing",
+        "emoji": "🧗",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "N",
+        "word": "Night Diving",
+        "emoji": "🤿",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "O",
+        "word": "Off Road Racing",
+        "emoji": "🏎️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "E",
+        "word": "Extreme Kayaking",
+        "emoji": "🛶",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "J",
+        "word": "Jet Pack",
+        "emoji": "🚀",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "V",
+        "word": "Via Ferrata",
+        "emoji": "🧗",
+        "bgColor": "#607D8B"
+      },
+      {
+        "letter": "U",
+        "word": "Ultralight Flying",
+        "emoji": "✈️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "X",
+        "word": "X Games",
+        "emoji": "🛹",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-extreme-sports-2",
+    "title": "Extreme Sports - Part 2",
+    "bgGradient": [
+      "#D84315",
+      "#FF8A65"
+    ],
+    "accentColor": "#BF360C",
+    "items": [
+      {
+        "letter": "B",
+        "word": "Base Jumping",
+        "emoji": "🪂",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "C",
+        "word": "Canyoneering",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "D",
+        "word": "Drift Racing",
+        "emoji": "🏎️",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Formula Racing",
+        "emoji": "🏎️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "G",
+        "word": "Go Kart Racing",
+        "emoji": "🏎️",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "H",
+        "word": "Heli Skiing",
+        "emoji": "⛷️",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "I",
+        "word": "Inline Skating",
+        "emoji": "⛸️",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "K",
+        "word": "Kayak Extreme",
+        "emoji": "🛶",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "L",
+        "word": "Longboarding",
+        "emoji": "🛹",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "M",
+        "word": "Mountain Biking",
+        "emoji": "🚴",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "N",
+        "word": "Night Surfing",
+        "emoji": "🏄",
+        "bgColor": "#1A237E"
+      },
+      {
+        "letter": "O",
+        "word": "Obstacle Course",
+        "emoji": "🏃",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "P",
+        "word": "Power Boating",
+        "emoji": "🚤",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "R",
+        "word": "Roller Derby",
+        "emoji": "⛸️",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "S",
+        "word": "Street Luge",
+        "emoji": "🛹",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "T",
+        "word": "Tower Running",
+        "emoji": "🏃",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "U",
+        "word": "Ultra Running",
+        "emoji": "🏃",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "V",
+        "word": "Volcano Boarding",
+        "emoji": "🏂",
+        "bgColor": "#BF360C"
+      },
+      {
+        "letter": "W",
+        "word": "Whitewater",
+        "emoji": "🛶",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "A",
+        "word": "Adventure Racing",
+        "emoji": "🏃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "E",
+        "word": "Enduro Racing",
+        "emoji": "🏍️",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "J",
+        "word": "Jet Surfing",
+        "emoji": "🏄",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "X",
+        "word": "X-Fighting",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "Y",
+        "word": "Youth X-Games",
+        "emoji": "🛹",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "Z",
+        "word": "Zorbing",
+        "emoji": "⚽",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "Q",
+        "word": "Quad Biking",
+        "emoji": "🏍️",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "S",
+        "word": "Speed Climbing",
+        "emoji": "🧗",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "B",
+        "word": "Body Boarding",
+        "emoji": "🏄",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "C",
+        "word": "Canopy Tour",
+        "emoji": "🌳",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "T",
+        "word": "Tough Mudder",
+        "emoji": "🏃",
+        "bgColor": "#5D4037"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-olympic-sports-1",
+    "title": "Olympic Sports - Part 1",
+    "bgGradient": [
+      "#00897B",
+      "#B2DFDB"
+    ],
+    "accentColor": "#004D40",
+    "items": [
+      {
+        "letter": "G",
+        "word": "Gymnastics",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Swimming",
+        "emoji": "🏊",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "A",
+        "word": "Athletics",
+        "emoji": "🏃",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "B",
+        "word": "Boxing",
+        "emoji": "🥊",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "W",
+        "word": "Weightlifting",
+        "emoji": "🏋️",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "S",
+        "word": "Shooting",
+        "emoji": "🎯",
+        "bgColor": "#37474F"
+      },
+      {
+        "letter": "A",
+        "word": "Archery",
+        "emoji": "🏹",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "F",
+        "word": "Fencing",
+        "emoji": "🤺",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "J",
+        "word": "Judo",
+        "emoji": "🥋",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "T",
+        "word": "Taekwondo",
+        "emoji": "🥋",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "W",
+        "word": "Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "R",
+        "word": "Rowing",
+        "emoji": "🚣",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "C",
+        "word": "Cycling",
+        "emoji": "🚴",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "E",
+        "word": "Equestrian",
+        "emoji": "🏇",
+        "bgColor": "#5D4037"
+      },
+      {
+        "letter": "D",
+        "word": "Diving",
+        "emoji": "🤿",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "S",
+        "word": "Sailing",
+        "emoji": "⛵",
+        "bgColor": "#1E88E5"
+      },
+      {
+        "letter": "C",
+        "word": "Canoeing",
+        "emoji": "🛶",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "B",
+        "word": "Badminton",
+        "emoji": "🏸",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "T",
+        "word": "Tennis",
+        "emoji": "🎾",
+        "bgColor": "#43A047"
+      },
+      {
+        "letter": "T",
+        "word": "Table Tennis",
+        "emoji": "🏓",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "V",
+        "word": "Volleyball",
+        "emoji": "🏐",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "H",
+        "word": "Handball",
+        "emoji": "🤾",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "B",
+        "word": "Basketball",
+        "emoji": "🏀",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "F",
+        "word": "Football",
+        "emoji": "⚽",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "H",
+        "word": "Hockey",
+        "emoji": "🏑",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "K",
+        "word": "Karate",
+        "emoji": "🥋",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "S",
+        "word": "Skateboarding",
+        "emoji": "🛹",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "C",
+        "word": "Climbing",
+        "emoji": "🧗",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Surfing",
+        "emoji": "🏄",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "B",
+        "word": "Breaking",
+        "emoji": "🤸",
+        "bgColor": "#6A1B9A"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  },
+  {
+    "id": "sports-olympic-sports-2",
+    "title": "Olympic Sports - Part 2",
+    "bgGradient": [
+      "#00796B",
+      "#80CBC4"
+    ],
+    "accentColor": "#00695C",
+    "items": [
+      {
+        "letter": "T",
+        "word": "Triathlon",
+        "emoji": "🏊",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "M",
+        "word": "Modern Pentathlon",
+        "emoji": "🏃",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "D",
+        "word": "Decathlon",
+        "emoji": "🏃",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "H",
+        "word": "Heptathlon",
+        "emoji": "🏃",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "S",
+        "word": "Steeplechase",
+        "emoji": "🏃",
+        "bgColor": "#0288D1"
+      },
+      {
+        "letter": "P",
+        "word": "Pole Vault",
+        "emoji": "🏃",
+        "bgColor": "#6A1B9A"
+      },
+      {
+        "letter": "L",
+        "word": "Long Jump",
+        "emoji": "🏃",
+        "bgColor": "#FF6F00"
+      },
+      {
+        "letter": "H",
+        "word": "High Jump",
+        "emoji": "🏃",
+        "bgColor": "#42A5F5"
+      },
+      {
+        "letter": "J",
+        "word": "Javelin",
+        "emoji": "🏃",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "D",
+        "word": "Discus",
+        "emoji": "🏃",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "S",
+        "word": "Shot Put",
+        "emoji": "🏃",
+        "bgColor": "#455A64"
+      },
+      {
+        "letter": "H",
+        "word": "Hammer Throw",
+        "emoji": "🏃",
+        "bgColor": "#263238"
+      },
+      {
+        "letter": "R",
+        "word": "Relay",
+        "emoji": "🏃",
+        "bgColor": "#D32F2F"
+      },
+      {
+        "letter": "M",
+        "word": "Marathon",
+        "emoji": "🏃",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "W",
+        "word": "Water Polo",
+        "emoji": "🤽",
+        "bgColor": "#1565C0"
+      },
+      {
+        "letter": "S",
+        "word": "Synchronized",
+        "emoji": "🏊",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "D",
+        "word": "Diving Platform",
+        "emoji": "🤿",
+        "bgColor": "#01579B"
+      },
+      {
+        "letter": "G",
+        "word": "Golf",
+        "emoji": "⛳",
+        "bgColor": "#2E7D32"
+      },
+      {
+        "letter": "R",
+        "word": "Rugby Sevens",
+        "emoji": "🏉",
+        "bgColor": "#C62828"
+      },
+      {
+        "letter": "B",
+        "word": "Beach Volleyball",
+        "emoji": "🏐",
+        "bgColor": "#FF9800"
+      },
+      {
+        "letter": "K",
+        "word": "Kayak Sprint",
+        "emoji": "🛶",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "C",
+        "word": "Canoe Slalom",
+        "emoji": "🛶",
+        "bgColor": "#0277BD"
+      },
+      {
+        "letter": "A",
+        "word": "Artistic Gymnastics",
+        "emoji": "🤸",
+        "bgColor": "#7C4DFF"
+      },
+      {
+        "letter": "R",
+        "word": "Rhythmic Gymnastics",
+        "emoji": "🤸",
+        "bgColor": "#E91E63"
+      },
+      {
+        "letter": "T",
+        "word": "Trampoline",
+        "emoji": "🤸",
+        "bgColor": "#FF5722"
+      },
+      {
+        "letter": "F",
+        "word": "Freestyle Wrestling",
+        "emoji": "🤼",
+        "bgColor": "#795548"
+      },
+      {
+        "letter": "G",
+        "word": "Greco Roman",
+        "emoji": "🤼",
+        "bgColor": "#827717"
+      },
+      {
+        "letter": "B",
+        "word": "BMX Racing",
+        "emoji": "🚴",
+        "bgColor": "#FBC02D"
+      },
+      {
+        "letter": "M",
+        "word": "Mountain Bike",
+        "emoji": "🚴",
+        "bgColor": "#33691E"
+      },
+      {
+        "letter": "S",
+        "word": "Sprint Cycling",
+        "emoji": "🚴",
+        "bgColor": "#D32F2F"
+      }
+    ],
+    "letterDuration": 3,
+    "introDuration": 3,
+    "outroDuration": 3
+  }
+]
