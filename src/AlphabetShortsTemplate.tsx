@@ -205,12 +205,12 @@ const IntroScene: React.FC<{
               position: "absolute",
               left: 150 + i * 300 + floatX,
               top: 300 + floatY,
-              fontSize: 180,
+              fontSize: 250,
               fontWeight: 900,
               fontFamily: funFont,
-              color: "rgba(255,255,255,0.25)",
+              color: "rgba(255,255,255,0.3)",
               transform: `scale(${letterSpring}) rotate(${rotation}deg)`,
-              textShadow: `0 0 40px rgba(255,255,255,0.3)`,
+              textShadow: `0 0 60px rgba(255,255,255,0.4), 0 0 120px ${accentColor}33`,
             }}
           >
             {letter}
@@ -230,14 +230,14 @@ const IntroScene: React.FC<{
       >
         <div
           style={{
-            fontSize: 110,
+            fontSize: 140,
             fontWeight: 900,
             fontFamily: funFont,
             color: "#FFFFFF",
             textAlign: "center",
-            textShadow: `5px 5px 0 ${accentColor}, 0 0 50px rgba(255,255,255,0.5)`,
+            textShadow: `8px 8px 0 ${accentColor}, 0 0 60px rgba(255,255,255,0.6), 0 0 120px ${accentColor}44`,
             lineHeight: 1.2,
-            padding: "0 50px",
+            padding: "0 40px",
           }}
         >
           {title}
@@ -247,11 +247,11 @@ const IntroScene: React.FC<{
         <div
           style={{
             marginTop: 50,
-            fontSize: 50,
+            fontSize: 70,
             fontWeight: 700,
             fontFamily: cleanFont,
             color: "#FFD700",
-            textShadow: "2px 2px 0 rgba(0,0,0,0.3), 0 0 20px rgba(255,215,0,0.5)",
+            textShadow: "3px 3px 0 rgba(0,0,0,0.4), 0 0 30px rgba(255,215,0,0.6), 0 0 60px rgba(255,215,0,0.3)",
             transform: `scale(${subtitleProgress})`,
             opacity: subtitleProgress,
           }}
