@@ -17,7 +17,7 @@ param(
     [int]$From = 1,
     [int]$To = 0,
     [ValidateSet("hd", "4k", "max")]
-    [string]$Quality = "4k"
+    [string]$Quality = "hd"
 )
 
 $ErrorActionPreference = "Stop"
