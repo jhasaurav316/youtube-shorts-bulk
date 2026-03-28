@@ -98,7 +98,7 @@ foreach ($cat in $catalogs) {
     foreach ($video in $videos) {
         $audioDone++
         $videoId = $video.id
-        $audioDir = Join-Path $ProjectDir "public" "$videoId-audio"
+        $audioDir = Join-Path (Join-Path $ProjectDir "public") "$videoId-audio"
 
         # Skip if already generated
         if (Test-Path $audioDir) {
@@ -165,7 +165,7 @@ foreach ($cat in $catalogs) {
     $json = Get-Content $catPath -Raw | ConvertFrom-Json
     $videos = if ($json -is [System.Array]) { $json } else { $json.videos }
 
-    $outDir = Join-Path $ProjectDir "out" $folder
+    $outDir = Join-Path (Join-Path $ProjectDir "out") $folder
     if (-not (Test-Path $outDir)) {
         New-Item -ItemType Directory -Path $outDir -Force | Out-Null
     }
