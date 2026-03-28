@@ -51,11 +51,13 @@ npm install
 Write-Host "  npm packages installed!" -ForegroundColor Green
 
 # Install edge-tts
-pip install edge-tts 2>$null
-if ($LASTEXITCODE -ne 0) {
-    pip install edge-tts --break-system-packages 2>$null
+try {
+    pip install edge-tts 2>&1 | Out-Null
+} catch {
+    Write-Host "  pip had a warning, checking if edge-tts works..." -ForegroundColor Yellow
 }
-Write-Host "  edge-tts installed!" -ForegroundColor Green
+$edgeCheck = & edge-tts --version 2>&1
+Write-Host "  edge-tts ready!" -ForegroundColor Green
 Write-Host ""
 
 # ======================== STEP 3: GENERATE AUDIO ========================
@@ -117,13 +119,13 @@ foreach ($cat in $catalogs) {
             $text = "$($item.letter) for $($item.word)"
             $outFile = Join-Path $audioDir "letter_$i.mp3"
 
-            edge-tts --voice $Voice --rate="$Rate" --pitch="$Pitch" --text "$text" --write-media "$outFile" 2>$null
+            edge-tts --voice $Voice --rate="$Rate" --pitch="$Pitch" --text "$text" --write-media "$outFile" 2>&1 | Out-Null
         }
 
         # Generate BGM
         $duration = 3 + $items.Count * 3 + 3  # intro + items + outro
         $bgmFile = Join-Path $audioDir "bgm.mp3"
-        ffmpeg -y -f lavfi -i "sine=frequency=523.25:duration=$duration" -f lavfi -i "sine=frequency=659.25:duration=$duration" -f lavfi -i "sine=frequency=783.99:duration=$duration" -filter_complex "[0]volume=0.08,aformat=channel_layouts=mono[c];[1]volume=0.06,aformat=channel_layouts=mono[e];[2]volume=0.04,aformat=channel_layouts=mono[g];[c][e][g]amix=inputs=3:duration=longest,lowpass=f=2000,volume=0.5[out]" -map "[out]" "$bgmFile" 2>$null
+        ffmpeg -y -f lavfi -i "sine=frequency=523.25:duration=$duration" -f lavfi -i "sine=frequency=659.25:duration=$duration" -f lavfi -i "sine=frequency=783.99:duration=$duration" -filter_complex "[0]volume=0.08,aformat=channel_layouts=mono[c];[1]volume=0.06,aformat=channel_layouts=mono[e];[2]volume=0.04,aformat=channel_layouts=mono[g];[c][e][g]amix=inputs=3:duration=longest,lowpass=f=2000,volume=0.5[out]" -map "[out]" "$bgmFile" 2>&1 | Out-Null
 
         Write-Host "    $($items.Count) audio files + BGM generated" -ForegroundColor Gray
     }
