@@ -691,3 +691,698 @@ M for Mushroom
 N for Naga Chili
 F for French Pumpkin
 I for Indian Eggplant
+
+======================================================================
+LYRICS: VEGETABLE NAMES (20 Videos Phase 3, 30 items each)
+For Indian English TTS (en-IN-NeerjaNeural)
+======================================================================
+
+----------------------------------------------------------------------
+#11. Colorful Veggies - Part 2 (vegetables-colorful-veggies-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-colorful-veggies-2-audio/
+
+Letter 0: R for Red Capsicum
+Letter 1: P for Purple Cabbage
+Letter 2: Y for Yellow Pepper
+Letter 3: O for Orange Carrot
+Letter 4: G for Green Chilli
+Letter 5: W for White Radish
+Letter 6: B for Beetroot
+Letter 7: S for Sweet Potato
+Letter 8: C for Corn
+Letter 9: T for Tomato
+Letter 10: L for Lal Mirch
+Letter 11: K for Kachri
+Letter 12: A for Arbi
+Letter 13: M for Mushroom
+Letter 14: D for Drumstick
+Letter 15: P for Pumpkin
+Letter 16: J for Jimikand
+Letter 17: H for Haldi
+Letter 18: F for French Beans
+Letter 19: I for Ivy Gourd
+Letter 20: N for Neem Leaves
+Letter 21: E for Elephant Yam
+Letter 22: V for Valor Beans
+Letter 23: U for Urad Dal
+Letter 24: X for Xacuti Spice
+Letter 25: Z for Zucchini
+Letter 26: Q for Quinoa Greens
+Letter 27: W for Winged Bean
+Letter 28: R for Ridge Gourd
+Letter 29: S for Suran
+
+PLAIN TEXT:
+R for Red Capsicum
+P for Purple Cabbage
+Y for Yellow Pepper
+O for Orange Carrot
+G for Green Chilli
+W for White Radish
+B for Beetroot
+S for Sweet Potato
+C for Corn
+T for Tomato
+L for Lal Mirch
+K for Kachri
+A for Arbi
+M for Mushroom
+D for Drumstick
+P for Pumpkin
+J for Jimikand
+H for Haldi
+F for French Beans
+I for Ivy Gourd
+N for Neem Leaves
+E for Elephant Yam
+V for Valor Beans
+U for Urad Dal
+X for Xacuti Spice
+Z for Zucchini
+Q for Quinoa Greens
+W for Winged Bean
+R for Ridge Gourd
+S for Suran
+
+----------------------------------------------------------------------
+#12. Colorful Veggies - Part 3 (vegetables-colorful-veggies-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-colorful-veggies-3-audio/
+
+Letter 0: C for Cherry Tomato
+Letter 1: B for Baby Corn
+Letter 2: P for Parsnip
+Letter 3: S for Shallot
+Letter 4: K for Kohlrabi
+Letter 5: A for Asparagus
+Letter 6: T for Turnip
+Letter 7: R for Red Onion
+Letter 8: G for Green Onion
+Letter 9: L for Lotus Stem
+Letter 10: M for Moringa
+Letter 11: D for Dill
+Letter 12: O for Okra
+Letter 13: W for Water Spinach
+Letter 14: F for Fenugreek
+Letter 15: H for Horse Radish
+Letter 16: J for Jack Bean
+Letter 17: N for Nutmeg Flower
+Letter 18: E for Endive
+Letter 19: I for Indian Spinach
+Letter 20: V for Velvet Okra
+Letter 21: U for Ube
+Letter 22: X for Xanthosoma
+Letter 23: Y for Yam Bean
+Letter 24: Z for Zha Cai
+Letter 25: Q for Quelites
+Letter 26: P for Pointed Gourd
+Letter 27: B for Bitter Melon
+Letter 28: C for Cluster Beans
+Letter 29: T for Teasel Gourd
+
+PLAIN TEXT:
+C for Cherry Tomato
+B for Baby Corn
+P for Parsnip
+S for Shallot
+K for Kohlrabi
+A for Asparagus
+T for Turnip
+R for Red Onion
+G for Green Onion
+L for Lotus Stem
+M for Moringa
+D for Dill
+O for Okra
+W for Water Spinach
+F for Fenugreek
+H for Horse Radish
+J for Jack Bean
+N for Nutmeg Flower
+E for Endive
+I for Indian Spinach
+V for Velvet Okra
+U for Ube
+X for Xanthosoma
+Y for Yam Bean
+Z for Zha Cai
+Q for Quelites
+P for Pointed Gourd
+B for Bitter Melon
+C for Cluster Beans
+T for Teasel Gourd
+
+----------------------------------------------------------------------
+#13. Garden Vegetables - Part 1 (vegetables-garden-veggies-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-garden-veggies-1-audio/
+
+Letter 0: T for Tomato
+Letter 1: C for Cucumber
+Letter 2: O for Onion
+Letter 3: G for Garlic
+Letter 4: P for Potato
+Letter 5: B for Brinjal
+Letter 6: S for Spinach
+Letter 7: C for Cauliflower
+Letter 8: R for Radish
+Letter 9: M for Mint
+Letter 10: L for Lemon Grass
+Letter 11: K for Kale
+Letter 12: A for Amaranth
+Letter 13: D for Doodhi
+Letter 14: F for Fennel
+Letter 15: H for Hari Mirch
+Letter 16: W for Watercress
+Letter 17: J for Jackfruit Seed
+Letter 18: N for New Potato
+Letter 19: E for Edamame
+Letter 20: I for Iceberg Lettuce
+Letter 21: V for Vidalia Onion
+Letter 22: U for Ulluco
+Letter 23: X for Xerophyte Cactus
+Letter 24: Y for Yellow Squash
+Letter 25: Z for Zucchini
+Letter 26: Q for Quinoa
+Letter 27: P for Parwal
+Letter 28: B for Bottle Gourd
+Letter 29: T for Tinda
+
+PLAIN TEXT:
+T for Tomato
+C for Cucumber
+O for Onion
+G for Garlic
+P for Potato
+B for Brinjal
+S for Spinach
+C for Cauliflower
+R for Radish
+M for Mint
+L for Lemon Grass
+K for Kale
+A for Amaranth
+D for Doodhi
+F for Fennel
+H for Hari Mirch
+W for Watercress
+J for Jackfruit Seed
+N for New Potato
+E for Edamame
+I for Iceberg Lettuce
+V for Vidalia Onion
+U for Ulluco
+X for Xerophyte Cactus
+Y for Yellow Squash
+Z for Zucchini
+Q for Quinoa
+P for Parwal
+B for Bottle Gourd
+T for Tinda
+
+----------------------------------------------------------------------
+#14. Garden Vegetables - Part 2 (vegetables-garden-veggies-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-garden-veggies-2-audio/
+
+Letter 0: C for Cabbage
+Letter 1: P for Peas
+Letter 2: B for Beans
+Letter 3: L for Lauki
+Letter 4: K for Karela
+Letter 5: T for Tori
+Letter 6: S for Snake Gourd
+Letter 7: A for Ash Gourd
+Letter 8: G for Ginger
+Letter 9: M for Methi Leaves
+Letter 10: R for Raw Banana
+Letter 11: O for Opo Squash
+Letter 12: D for Dry Chilli
+Letter 13: H for Hyacinth Bean
+Letter 14: F for Flat Bean
+Letter 15: W for White Gourd
+Letter 16: J for Jackfruit Raw
+Letter 17: N for Nutri Garden
+Letter 18: E for Eggplant
+Letter 19: I for Indian Squash
+Letter 20: V for Vine Spinach
+Letter 21: U for Upland Cress
+Letter 22: X for Ximenia Leaf
+Letter 23: Y for Yardlong Bean
+Letter 24: Z for Zingiber
+Letter 25: Q for Quick Greens
+Letter 26: C for Coriander
+Letter 27: P for Papdi
+Letter 28: B for Bhindi
+Letter 29: S for Sem
+
+PLAIN TEXT:
+C for Cabbage
+P for Peas
+B for Beans
+L for Lauki
+K for Karela
+T for Tori
+S for Snake Gourd
+A for Ash Gourd
+G for Ginger
+M for Methi Leaves
+R for Raw Banana
+O for Opo Squash
+D for Dry Chilli
+H for Hyacinth Bean
+F for Flat Bean
+W for White Gourd
+J for Jackfruit Raw
+N for Nutri Garden
+E for Eggplant
+I for Indian Squash
+V for Vine Spinach
+U for Upland Cress
+X for Ximenia Leaf
+Y for Yardlong Bean
+Z for Zingiber
+Q for Quick Greens
+C for Coriander
+P for Papdi
+B for Bhindi
+S for Sem
+
+----------------------------------------------------------------------
+#15. Garden Vegetables - Part 3 (vegetables-garden-veggies-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-garden-veggies-3-audio/
+
+Letter 0: S for Sponge Gourd
+Letter 1: R for Raw Papaya
+Letter 2: A for Apple Gourd
+Letter 3: P for Patta Gobhi
+Letter 4: K for Kundru
+Letter 5: T for Turmeric
+Letter 6: B for Banana Flower
+Letter 7: C for Curry Leaf
+Letter 8: G for Guar Bean
+Letter 9: M for Malabar Spinach
+Letter 10: L for Long Pepper
+Letter 11: D for Double Bean
+Letter 12: O for Oyster Mushroom
+Letter 13: W for Winter Squash
+Letter 14: F for Field Bean
+Letter 15: H for Heart of Palm
+Letter 16: J for Jerusalem Artichoke
+Letter 17: N for Napa Cabbage
+Letter 18: E for Escarole
+Letter 19: I for Indian Pumpkin
+Letter 20: V for Vegetable Marrow
+Letter 21: U for Unripe Mango
+Letter 22: X for Xigua Rind
+Letter 23: Y for Yellow Lentil
+Letter 24: Z for Zha Cai Pickle
+Letter 25: Q for Quail Egg Plant
+Letter 26: P for Padval
+Letter 27: S for Saag
+Letter 28: T for Tendli
+Letter 29: C for Chow Chow
+
+PLAIN TEXT:
+S for Sponge Gourd
+R for Raw Papaya
+A for Apple Gourd
+P for Patta Gobhi
+K for Kundru
+T for Turmeric
+B for Banana Flower
+C for Curry Leaf
+G for Guar Bean
+M for Malabar Spinach
+L for Long Pepper
+D for Double Bean
+O for Oyster Mushroom
+W for Winter Squash
+F for Field Bean
+H for Heart of Palm
+J for Jerusalem Artichoke
+N for Napa Cabbage
+E for Escarole
+I for Indian Pumpkin
+V for Vegetable Marrow
+U for Unripe Mango
+X for Xigua Rind
+Y for Yellow Lentil
+Z for Zha Cai Pickle
+Q for Quail Egg Plant
+P for Padval
+S for Saag
+T for Tendli
+C for Chow Chow
+
+----------------------------------------------------------------------
+#16. Asian Vegetables - Part 1 (vegetables-asian-veggies-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-asian-veggies-1-audio/
+
+Letter 0: B for Bok Choy
+Letter 1: W for Wasabi
+Letter 2: T for Tofu
+Letter 3: E for Edamame
+Letter 4: S for Shiitake
+Letter 5: M for Miso Paste
+Letter 6: D for Daikon
+Letter 7: G for Galangal
+Letter 8: L for Lotus Root
+Letter 9: K for Kabocha
+Letter 10: N for Nori
+Letter 11: C for Chinese Cabbage
+Letter 12: A for Arame
+Letter 13: R for Rice Paddy Herb
+Letter 14: P for Pak Choi
+Letter 15: H for Holy Basil
+Letter 16: O for Oyster Plant
+Letter 17: F for Fuzzy Melon
+Letter 18: J for Japanese Eggplant
+Letter 19: I for Indian Mustard
+Letter 20: V for Vietnamese Mint
+Letter 21: U for Udon Noodle Veg
+Letter 22: X for Xiao Bai Cai
+Letter 23: Y for Yu Choy
+Letter 24: Z for Zha Cai
+Letter 25: Q for Qing Cai
+Letter 26: B for Bamboo Shoot
+Letter 27: T for Taro
+Letter 28: W for Water Chestnut
+Letter 29: C for Chayote
+
+PLAIN TEXT:
+B for Bok Choy
+W for Wasabi
+T for Tofu
+E for Edamame
+S for Shiitake
+M for Miso Paste
+D for Daikon
+G for Galangal
+L for Lotus Root
+K for Kabocha
+N for Nori
+C for Chinese Cabbage
+A for Arame
+R for Rice Paddy Herb
+P for Pak Choi
+H for Holy Basil
+O for Oyster Plant
+F for Fuzzy Melon
+J for Japanese Eggplant
+I for Indian Mustard
+V for Vietnamese Mint
+U for Udon Noodle Veg
+X for Xiao Bai Cai
+Y for Yu Choy
+Z for Zha Cai
+Q for Qing Cai
+B for Bamboo Shoot
+T for Taro
+W for Water Chestnut
+C for Chayote
+
+----------------------------------------------------------------------
+#17. Asian Vegetables - Part 2 (vegetables-asian-veggies-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-asian-veggies-2-audio/
+
+Letter 0: S for Soy Bean
+Letter 1: G for Green Papaya
+Letter 2: L for Lemongrass
+Letter 3: T for Thai Basil
+Letter 4: M for Mizuna
+Letter 5: K for Komatsuna
+Letter 6: P for Perilla
+Letter 7: R for Red Shiso
+Letter 8: A for Amaranth Leaves
+Letter 9: D for Drumstick Leaves
+Letter 10: B for Bitter Gourd
+Letter 11: C for Chinese Broccoli
+Letter 12: O for Okra Indian
+Letter 13: W for Wing Bean
+Letter 14: F for Fiddlehead Fern
+Letter 15: H for Horseradish Root
+Letter 16: N for Napa Greens
+Letter 17: J for Jicama
+Letter 18: E for Enoki Mushroom
+Letter 19: I for Indian Sorrel
+Letter 20: V for Velvet Leaf
+Letter 21: U for Umami Seaweed
+Letter 22: X for Xian Cai
+Letter 23: Y for Yam Leaf
+Letter 24: Z for Zen Garden Herb
+Letter 25: Q for Quail Grass
+Letter 26: P for Purple Yam
+Letter 27: S for Shimeji
+Letter 28: T for Thai Eggplant
+Letter 29: G for Gai Lan
+
+PLAIN TEXT:
+S for Soy Bean
+G for Green Papaya
+L for Lemongrass
+T for Thai Basil
+M for Mizuna
+K for Komatsuna
+P for Perilla
+R for Red Shiso
+A for Amaranth Leaves
+D for Drumstick Leaves
+B for Bitter Gourd
+C for Chinese Broccoli
+O for Okra Indian
+W for Wing Bean
+F for Fiddlehead Fern
+H for Horseradish Root
+N for Napa Greens
+J for Jicama
+E for Enoki Mushroom
+I for Indian Sorrel
+V for Velvet Leaf
+U for Umami Seaweed
+X for Xian Cai
+Y for Yam Leaf
+Z for Zen Garden Herb
+Q for Quail Grass
+P for Purple Yam
+S for Shimeji
+T for Thai Eggplant
+G for Gai Lan
+
+----------------------------------------------------------------------
+#18. Asian Vegetables - Part 3 (vegetables-asian-veggies-3)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-asian-veggies-3-audio/
+
+Letter 0: C for Cassava
+Letter 1: T for Tatsoi
+Letter 2: B for Bean Sprouts
+Letter 3: M for Mung Bean
+Letter 4: S for Spring Onion
+Letter 5: A for Arrowroot
+Letter 6: K for Kangkong
+Letter 7: G for Garlic Chives
+Letter 8: P for Pandan Leaf
+Letter 9: L for Long Bean
+Letter 10: R for Rakkyo
+Letter 11: D for Dried Tofu
+Letter 12: O for Okinawan Potato
+Letter 13: W for Wax Gourd
+Letter 14: F for Fresh Turmeric
+Letter 15: H for Hairy Gourd
+Letter 16: N for Natto
+Letter 17: J for Jute Leaf
+Letter 18: E for Emperor Herb
+Letter 19: I for Indian Lettuce
+Letter 20: V for Veggie Tofu
+Letter 21: U for Udo Plant
+Letter 22: X for Xing Ren
+Letter 23: Y for Yam Root
+Letter 24: Z for Zha Cai Root
+Letter 25: Q for Queen Garlic
+Letter 26: S for Sato Imo
+Letter 27: B for Bottle Gourd
+Letter 28: T for Tepary Bean
+Letter 29: C for Chinese Yam
+
+PLAIN TEXT:
+C for Cassava
+T for Tatsoi
+B for Bean Sprouts
+M for Mung Bean
+S for Spring Onion
+A for Arrowroot
+K for Kangkong
+G for Garlic Chives
+P for Pandan Leaf
+L for Long Bean
+R for Rakkyo
+D for Dried Tofu
+O for Okinawan Potato
+W for Wax Gourd
+F for Fresh Turmeric
+H for Hairy Gourd
+N for Natto
+J for Jute Leaf
+E for Emperor Herb
+I for Indian Lettuce
+V for Veggie Tofu
+U for Udo Plant
+X for Xing Ren
+Y for Yam Root
+Z for Zha Cai Root
+Q for Queen Garlic
+S for Sato Imo
+B for Bottle Gourd
+T for Tepary Bean
+C for Chinese Yam
+
+----------------------------------------------------------------------
+#19. Super Vegetables - Part 1 (vegetables-super-veggies-1)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-super-veggies-1-audio/
+
+Letter 0: S for Spinach
+Letter 1: K for Kale
+Letter 2: B for Broccoli
+Letter 3: C for Carrot
+Letter 4: G for Garlic
+Letter 5: O for Onion
+Letter 6: T for Tomato
+Letter 7: P for Pumpkin
+Letter 8: A for Avocado
+Letter 9: R for Red Bell Pepper
+Letter 10: M for Moringa
+Letter 11: D for Drumstick
+Letter 12: L for Lettuce
+Letter 13: W for Watercress
+Letter 14: F for Fenugreek
+Letter 15: H for Horseradish
+Letter 16: N for Nettle
+Letter 17: E for Edamame
+Letter 18: J for Jackfruit
+Letter 19: I for Indian Gourd
+Letter 20: V for Vine Leaf
+Letter 21: U for Ube Yam
+Letter 22: X for Xigua Peel
+Letter 23: Y for Yellow Pepper
+Letter 24: Z for Zucchini
+Letter 25: Q for Quinoa Leaf
+Letter 26: B for Beetroot
+Letter 27: S for Sweet Corn
+Letter 28: C for Capsicum
+Letter 29: P for Peas
+
+PLAIN TEXT:
+S for Spinach
+K for Kale
+B for Broccoli
+C for Carrot
+G for Garlic
+O for Onion
+T for Tomato
+P for Pumpkin
+A for Avocado
+R for Red Bell Pepper
+M for Moringa
+D for Drumstick
+L for Lettuce
+W for Watercress
+F for Fenugreek
+H for Horseradish
+N for Nettle
+E for Edamame
+J for Jackfruit
+I for Indian Gourd
+V for Vine Leaf
+U for Ube Yam
+X for Xigua Peel
+Y for Yellow Pepper
+Z for Zucchini
+Q for Quinoa Leaf
+B for Beetroot
+S for Sweet Corn
+C for Capsicum
+P for Peas
+
+----------------------------------------------------------------------
+#20. Super Vegetables - Part 2 (vegetables-super-veggies-2)
+----------------------------------------------------------------------
+Audio: letter_0.mp3 to letter_29.mp3 + bgm.mp3
+Place in: public/vegetables-super-veggies-2-audio/
+
+Letter 0: A for Amla Leaf
+Letter 1: T for Tulsi
+Letter 2: G for Giloy
+Letter 3: N for Neem
+Letter 4: H for Haldi Root
+Letter 5: M for Mint Leaves
+Letter 6: S for Shatavari
+Letter 7: C for Chamomile
+Letter 8: P for Peppermint
+Letter 9: B for Basil
+Letter 10: L for Lemon Balm
+Letter 11: R for Rosemary
+Letter 12: D for Dill Leaves
+Letter 13: O for Oregano
+Letter 14: K for Kadipatta
+Letter 15: F for Fresh Ginger
+Letter 16: W for Wheatgrass
+Letter 17: J for Jackfruit Leaf
+Letter 18: E for Eucalyptus
+Letter 19: I for Indian Basil
+Letter 20: V for Vetiver
+Letter 21: U for Urad Leaf
+Letter 22: X for Xerophyte Herb
+Letter 23: Y for Yarrow
+Letter 24: Z for Zinnia Leaf
+Letter 25: Q for Queen Herb
+Letter 26: S for Sage
+Letter 27: T for Thyme
+Letter 28: B for Bay Leaf
+Letter 29: C for Cilantro
+
+PLAIN TEXT:
+A for Amla Leaf
+T for Tulsi
+G for Giloy
+N for Neem
+H for Haldi Root
+M for Mint Leaves
+S for Shatavari
+C for Chamomile
+P for Peppermint
+B for Basil
+L for Lemon Balm
+R for Rosemary
+D for Dill Leaves
+O for Oregano
+K for Kadipatta
+F for Fresh Ginger
+W for Wheatgrass
+J for Jackfruit Leaf
+E for Eucalyptus
+I for Indian Basil
+V for Vetiver
+U for Urad Leaf
+X for Xerophyte Herb
+Y for Yarrow
+Z for Zinnia Leaf
+Q for Queen Herb
+S for Sage
+T for Thyme
+B for Bay Leaf
+C for Cilantro

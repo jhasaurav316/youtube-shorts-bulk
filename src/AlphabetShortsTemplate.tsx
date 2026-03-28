@@ -133,7 +133,7 @@ function generateSideEmojis(count: number, seed: number) {
     positions.push({
       x: side === 0 ? 30 + hash * 120 : 880 + hash * 120,
       y: 300 + (i * 250) + hash * 100,
-      size: 90 + hash * 30,
+      size: 100 + hash * 30,
       delay: i * 5,
     });
   }
@@ -340,7 +340,7 @@ const LetterScene: React.FC<{
 
   // Sparkles for this scene
   const sparkles = generateSparkles(15, letterIndex * 7 + 13);
-  const sideEmojis = generateSideEmojis(10, letterIndex * 11 + 3);
+  const sideEmojis = generateSideEmojis(12, letterIndex * 11 + 3);
 
   // Darken/lighten the bg for gradient
   const bgDarker = bgColor;
@@ -389,7 +389,7 @@ const LetterScene: React.FC<{
       >
         <div
           style={{
-            fontSize: 100,
+            fontSize: 110,
             fontWeight: 700,
             fontFamily: cleanFont,
             color: "rgba(255,255,255,0.95)",
@@ -448,7 +448,7 @@ const LetterScene: React.FC<{
       >
         <div
           style={{
-            fontSize: 450,
+            fontSize: 500,
             transform: `scale(${emojiSpring})`,
             lineHeight: 1,
             filter: `drop-shadow(0 15px 35px rgba(0,0,0,0.35))`,
@@ -469,11 +469,11 @@ const LetterScene: React.FC<{
       >
         <div
           style={{
-            fontSize: 130,
+            fontSize: 140,
             fontWeight: 900,
             fontFamily: cleanFont,
             color: "#FFFFFF",
-            textShadow: `5px 5px 0 ${accentColor}, 0 0 35px rgba(0,0,0,0.35)`,
+            textShadow: `6px 6px 0 ${accentColor}, 0 0 40px rgba(0,0,0,0.4)`,
             transform: `translateY(${interpolate(wordSlide, [0, 1], [60, 0])}px)`,
             opacity: wordSlide,
           }}
